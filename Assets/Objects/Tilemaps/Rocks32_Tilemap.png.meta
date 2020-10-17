@@ -1,0 +1,7876 @@
+fileFormatVersion: 2
+guid: 6444ed33b4b02c9479375174ad5a4db0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6120755806016871169
+    second: Rocks32_Tilemap_0
+  - first:
+      213: 1039192530867680112
+    second: Rocks32_Tilemap_1
+  - first:
+      213: 2912504508021590432
+    second: Rocks32_Tilemap_2
+  - first:
+      213: 4562717434804899384
+    second: Rocks32_Tilemap_3
+  - first:
+      213: -5597453814024514428
+    second: Rocks32_Tilemap_4
+  - first:
+      213: -4000088261828106524
+    second: Rocks32_Tilemap_5
+  - first:
+      213: -3126439951384588762
+    second: Rocks32_Tilemap_6
+  - first:
+      213: -6835429889488116372
+    second: Rocks32_Tilemap_7
+  - first:
+      213: 5144634806633680958
+    second: Rocks32_Tilemap_8
+  - first:
+      213: 6653080390939587514
+    second: Rocks32_Tilemap_9
+  - first:
+      213: -7583025652690755150
+    second: Rocks32_Tilemap_10
+  - first:
+      213: -2120698611565796490
+    second: Rocks32_Tilemap_11
+  - first:
+      213: -913306259560403976
+    second: Rocks32_Tilemap_12
+  - first:
+      213: 6600247290539501885
+    second: Rocks32_Tilemap_13
+  - first:
+      213: 8488413433791163454
+    second: Rocks32_Tilemap_14
+  - first:
+      213: -3705178452606444840
+    second: Rocks32_Tilemap_15
+  - first:
+      213: 934501521668271367
+    second: Rocks32_Tilemap_16
+  - first:
+      213: -4447864610180645692
+    second: Rocks32_Tilemap_17
+  - first:
+      213: -6707307867329984998
+    second: Rocks32_Tilemap_18
+  - first:
+      213: 596523119216349908
+    second: Rocks32_Tilemap_19
+  - first:
+      213: 1796441996751717694
+    second: Rocks32_Tilemap_20
+  - first:
+      213: 1229215374583180836
+    second: Rocks32_Tilemap_21
+  - first:
+      213: -3629576682583524430
+    second: Rocks32_Tilemap_22
+  - first:
+      213: 7434104472460401238
+    second: Rocks32_Tilemap_23
+  - first:
+      213: 8776634626355963332
+    second: Rocks32_Tilemap_24
+  - first:
+      213: -7974777646348524658
+    second: Rocks32_Tilemap_25
+  - first:
+      213: -8609922994970940757
+    second: Rocks32_Tilemap_26
+  - first:
+      213: 2994833876463210351
+    second: Rocks32_Tilemap_27
+  - first:
+      213: 5869309979130811075
+    second: Rocks32_Tilemap_28
+  - first:
+      213: -2273125295810843026
+    second: Rocks32_Tilemap_29
+  - first:
+      213: 2304058102399975285
+    second: Rocks32_Tilemap_30
+  - first:
+      213: -2060122600026490500
+    second: Rocks32_Tilemap_31
+  - first:
+      213: -8366225656857057951
+    second: Rocks32_Tilemap_32
+  - first:
+      213: 7124899062215982708
+    second: Rocks32_Tilemap_33
+  - first:
+      213: -6427644204382234721
+    second: Rocks32_Tilemap_34
+  - first:
+      213: -7710850389172804197
+    second: Rocks32_Tilemap_35
+  - first:
+      213: 2343840028751619181
+    second: Rocks32_Tilemap_36
+  - first:
+      213: -6448196754779772487
+    second: Rocks32_Tilemap_37
+  - first:
+      213: 2766521197952154735
+    second: Rocks32_Tilemap_38
+  - first:
+      213: -6134301056993969858
+    second: Rocks32_Tilemap_39
+  - first:
+      213: 3810090109002855656
+    second: Rocks32_Tilemap_40
+  - first:
+      213: 1919486409528512445
+    second: Rocks32_Tilemap_41
+  - first:
+      213: 9183067448035666679
+    second: Rocks32_Tilemap_42
+  - first:
+      213: -7081288600726042207
+    second: Rocks32_Tilemap_43
+  - first:
+      213: 6363180923719700467
+    second: Rocks32_Tilemap_44
+  - first:
+      213: 7993352171985966232
+    second: Rocks32_Tilemap_45
+  - first:
+      213: -1450602440278789285
+    second: Rocks32_Tilemap_46
+  - first:
+      213: -8297190621182576689
+    second: Rocks32_Tilemap_47
+  - first:
+      213: -6670188832902664474
+    second: Rocks32_Tilemap_0
+  - first:
+      213: 2337256568285521901
+    second: Rocks32_Tilemap_1
+  - first:
+      213: -6001951465425151415
+    second: Rocks32_Tilemap_2
+  - first:
+      213: 2083815281632728897
+    second: Rocks32_Tilemap_3
+  - first:
+      213: 7493428363198597091
+    second: Rocks32_Tilemap_4
+  - first:
+      213: -3263526300834026897
+    second: Rocks32_Tilemap_5
+  - first:
+      213: -4319735530857120707
+    second: Rocks32_Tilemap_6
+  - first:
+      213: -4380099724563895589
+    second: Rocks32_Tilemap_7
+  - first:
+      213: -2703773795965205787
+    second: Rocks32_Tilemap_8
+  - first:
+      213: -4342138536521036501
+    second: Rocks32_Tilemap_9
+  - first:
+      213: -5665347897819313343
+    second: Rocks32_Tilemap_10
+  - first:
+      213: 8106160243361662960
+    second: Rocks32_Tilemap_11
+  - first:
+      213: 5988028628207892766
+    second: Rocks32_Tilemap_12
+  - first:
+      213: 2441458743154664981
+    second: Rocks32_Tilemap_13
+  - first:
+      213: 2553896531204071153
+    second: Rocks32_Tilemap_14
+  - first:
+      213: 1125509811350913381
+    second: Rocks32_Tilemap_15
+  - first:
+      213: 6697024241628751304
+    second: Rocks32_Tilemap_16
+  - first:
+      213: 7951133615838217214
+    second: Rocks32_Tilemap_17
+  - first:
+      213: 3108149072408528506
+    second: Rocks32_Tilemap_18
+  - first:
+      213: -773748149494145521
+    second: Rocks32_Tilemap_19
+  - first:
+      213: 1381851515245698655
+    second: Rocks32_Tilemap_20
+  - first:
+      213: 3836542627987616619
+    second: Rocks32_Tilemap_21
+  - first:
+      213: -6236606173768278293
+    second: Rocks32_Tilemap_22
+  - first:
+      213: -5285233435442098385
+    second: Rocks32_Tilemap_23
+  - first:
+      213: 2781287202276046609
+    second: Rocks32_Tilemap_24
+  - first:
+      213: -1193979498231503939
+    second: Rocks32_Tilemap_25
+  - first:
+      213: 6790210967006048012
+    second: Rocks32_Tilemap_26
+  - first:
+      213: -5783808281180461023
+    second: Rocks32_Tilemap_27
+  - first:
+      213: 2484631605248024992
+    second: Rocks32_Tilemap_28
+  - first:
+      213: 7645082476569730263
+    second: Rocks32_Tilemap_29
+  - first:
+      213: 319480738222785094
+    second: Rocks32_Tilemap_30
+  - first:
+      213: 4310385051389779460
+    second: Rocks32_Tilemap_31
+  - first:
+      213: 8762022418967198064
+    second: Rocks32_Tilemap_32
+  - first:
+      213: 6913075073413884742
+    second: Rocks32_Tilemap_33
+  - first:
+      213: -2040848870249704769
+    second: Rocks32_Tilemap_34
+  - first:
+      213: -7181285215382217514
+    second: Rocks32_Tilemap_35
+  - first:
+      213: 3500541788961635477
+    second: Rocks32_Tilemap_36
+  - first:
+      213: 5418753467966022358
+    second: Rocks32_Tilemap_37
+  - first:
+      213: 2217038854455720508
+    second: Rocks32_Tilemap_38
+  - first:
+      213: -768765143904494472
+    second: Rocks32_Tilemap_39
+  - first:
+      213: -3194575888664421232
+    second: Rocks32_Tilemap_40
+  - first:
+      213: -8357221042785337628
+    second: Rocks32_Tilemap_41
+  - first:
+      213: -2565888724374491147
+    second: Rocks32_Tilemap_42
+  - first:
+      213: 7998467689122476387
+    second: Rocks32_Tilemap_43
+  - first:
+      213: 8996736921259153974
+    second: Rocks32_Tilemap_44
+  - first:
+      213: -1893159917739937531
+    second: Rocks32_Tilemap_45
+  - first:
+      213: 4237709245800884427
+    second: Rocks32_Tilemap_46
+  - first:
+      213: 3082344783336578767
+    second: Rocks32_Tilemap_47
+  - first:
+      213: 1993928533345654662
+    second: Rocks32_Tilemap_48
+  - first:
+      213: 3961539260400214905
+    second: Rocks32_Tilemap_49
+  - first:
+      213: -5925285581748823224
+    second: Rocks32_Tilemap_50
+  - first:
+      213: 6995795004437318548
+    second: Rocks32_Tilemap_51
+  - first:
+      213: -6254663689658581073
+    second: Rocks32_Tilemap_52
+  - first:
+      213: 4841457819326690604
+    second: Rocks32_Tilemap_53
+  - first:
+      213: -8778373816843146911
+    second: Rocks32_Tilemap_54
+  - first:
+      213: -8167987841306710237
+    second: Rocks32_Tilemap_55
+  - first:
+      213: -5793931519979094075
+    second: Rocks32_Tilemap_56
+  - first:
+      213: 6203798230016934744
+    second: Rocks32_Tilemap_57
+  - first:
+      213: 6382247015173540857
+    second: Rocks32_Tilemap_58
+  - first:
+      213: 611416791922892010
+    second: Rocks32_Tilemap_59
+  - first:
+      213: -5281444608402183196
+    second: Rocks32_Tilemap_60
+  - first:
+      213: -7400276587982457009
+    second: Rocks32_Tilemap_61
+  - first:
+      213: 3195000647461153200
+    second: Rocks32_Tilemap_62
+  - first:
+      213: -5062400787963075485
+    second: Rocks32_Tilemap_63
+  - first:
+      213: -6267781807113403571
+    second: Rocks32_Tilemap_64
+  - first:
+      213: -8764563544455841560
+    second: Rocks32_Tilemap_65
+  - first:
+      213: 2173127816539300310
+    second: Rocks32_Tilemap_66
+  - first:
+      213: -888555853225944051
+    second: Rocks32_Tilemap_67
+  - first:
+      213: 6818865381139856083
+    second: Rocks32_Tilemap_68
+  - first:
+      213: 4701793504675950881
+    second: Rocks32_Tilemap_69
+  - first:
+      213: 2722503070036383451
+    second: Rocks32_Tilemap_70
+  - first:
+      213: 6349249132762922290
+    second: Rocks32_Tilemap_71
+  - first:
+      213: -3744250670318791226
+    second: Rocks32_Tilemap_72
+  - first:
+      213: 5829075113357349504
+    second: Rocks32_Tilemap_73
+  - first:
+      213: 7409514242357120209
+    second: Rocks32_Tilemap_74
+  - first:
+      213: 7926336864802895385
+    second: Rocks32_Tilemap_75
+  - first:
+      213: -3144747413047913974
+    second: Rocks32_Tilemap_76
+  - first:
+      213: 531121033574529013
+    second: Rocks32_Tilemap_77
+  - first:
+      213: 3803191873489692810
+    second: Rocks32_Tilemap_78
+  - first:
+      213: 6837355430718386937
+    second: Rocks32_Tilemap_79
+  - first:
+      213: 4007274160758839750
+    second: Rocks32_Tilemap_80
+  - first:
+      213: -7126139023835049346
+    second: Rocks32_Tilemap_81
+  - first:
+      213: 1043533305820206279
+    second: Rocks32_Tilemap_82
+  - first:
+      213: 2969489685997141687
+    second: Rocks32_Tilemap_83
+  - first:
+      213: 5111871921920421133
+    second: Rocks32_Tilemap_84
+  - first:
+      213: 7683248821536518935
+    second: Rocks32_Tilemap_85
+  - first:
+      213: -6080636465690937573
+    second: Rocks32_Tilemap_86
+  - first:
+      213: -1788778960853378017
+    second: Rocks32_Tilemap_87
+  - first:
+      213: -5943911244966641378
+    second: Rocks32_Tilemap_88
+  - first:
+      213: -1041486683534764096
+    second: Rocks32_Tilemap_89
+  - first:
+      213: 4828268397320759550
+    second: Rocks32_Tilemap_90
+  - first:
+      213: -1978088078387252670
+    second: Rocks32_Tilemap_91
+  - first:
+      213: -315845415911009751
+    second: Rocks32_Tilemap_92
+  - first:
+      213: -2405007431091040628
+    second: Rocks32_Tilemap_93
+  - first:
+      213: -2435971229390149788
+    second: Rocks32_Tilemap_94
+  - first:
+      213: -4849789496087714290
+    second: Rocks32_Tilemap_95
+  - first:
+      213: 4785255874523489536
+    second: Rocks32_Tilemap_96
+  - first:
+      213: 6967147349740701604
+    second: Rocks32_Tilemap_97
+  - first:
+      213: -2625939579342618457
+    second: Rocks32_Tilemap_98
+  - first:
+      213: -8179922328613391555
+    second: Rocks32_Tilemap_99
+  - first:
+      213: -4870370468952484126
+    second: Rocks32_Tilemap_100
+  - first:
+      213: 8427233272401416695
+    second: Rocks32_Tilemap_101
+  - first:
+      213: 655269035989970768
+    second: Rocks32_Tilemap_102
+  - first:
+      213: 464722989509595435
+    second: Rocks32_Tilemap_103
+  - first:
+      213: 5601478625597392395
+    second: Rocks32_Tilemap_104
+  - first:
+      213: -4891650476884035357
+    second: Rocks32_Tilemap_105
+  - first:
+      213: 1522785765469112937
+    second: Rocks32_Tilemap_106
+  - first:
+      213: 3577792082235672648
+    second: Rocks32_Tilemap_107
+  - first:
+      213: -4656937692609978688
+    second: Rocks32_Tilemap_108
+  - first:
+      213: -2193850327801186160
+    second: Rocks32_Tilemap_109
+  - first:
+      213: -2975731489050224788
+    second: Rocks32_Tilemap_110
+  - first:
+      213: -6185992567385315793
+    second: Rocks32_Tilemap_111
+  - first:
+      213: -8183919018535437070
+    second: Rocks32_Tilemap_112
+  - first:
+      213: -6368544693304017219
+    second: Rocks32_Tilemap_113
+  - first:
+      213: 6262612156369345330
+    second: Rocks32_Tilemap_114
+  - first:
+      213: -1664053087928640773
+    second: Rocks32_Tilemap_115
+  - first:
+      213: -4604014723248341975
+    second: Rocks32_Tilemap_116
+  - first:
+      213: 8314632859670107185
+    second: Rocks32_Tilemap_117
+  - first:
+      213: -325327422054586978
+    second: Rocks32_Tilemap_118
+  - first:
+      213: -6599505216859100035
+    second: Rocks32_Tilemap_119
+  - first:
+      213: 7839523659181210016
+    second: Rocks32_Tilemap_120
+  - first:
+      213: 7949088102853169143
+    second: Rocks32_Tilemap_121
+  - first:
+      213: 3871963109116278772
+    second: Rocks32_Tilemap_122
+  - first:
+      213: 6846535637266150990
+    second: Rocks32_Tilemap_123
+  - first:
+      213: 1595960915794673167
+    second: Rocks32_Tilemap_124
+  - first:
+      213: -8195856261695369553
+    second: Rocks32_Tilemap_125
+  - first:
+      213: 3128960061263531229
+    second: Rocks32_Tilemap_126
+  - first:
+      213: -321823190001562496
+    second: Rocks32_Tilemap_127
+  - first:
+      213: -8268830945082954726
+    second: Rocks32_Tilemap_128
+  - first:
+      213: 2018775253748969005
+    second: Rocks32_Tilemap_129
+  - first:
+      213: 4640936624649633273
+    second: Rocks32_Tilemap_130
+  - first:
+      213: -9062535526877646379
+    second: Rocks32_Tilemap_131
+  - first:
+      213: 1268575071281453910
+    second: Rocks32_Tilemap_132
+  - first:
+      213: 3632979812866058732
+    second: Rocks32_Tilemap_133
+  - first:
+      213: 6712643622501746417
+    second: Rocks32_Tilemap_134
+  - first:
+      213: 4457578412191316209
+    second: Rocks32_Tilemap_135
+  - first:
+      213: 3890064458648947002
+    second: Rocks32_Tilemap_136
+  - first:
+      213: 6922537303516485525
+    second: Rocks32_Tilemap_137
+  - first:
+      213: 8848940777428298093
+    second: Rocks32_Tilemap_138
+  - first:
+      213: 2757475314403905966
+    second: Rocks32_Tilemap_139
+  - first:
+      213: -8925510508163414338
+    second: Rocks32_Tilemap_140
+  - first:
+      213: -1854740809364003911
+    second: Rocks32_Tilemap_141
+  - first:
+      213: 9000013188214396323
+    second: Rocks32_Tilemap_142
+  - first:
+      213: 2896033988028870032
+    second: Rocks32_Tilemap_143
+  - first:
+      213: -4206770158986952781
+    second: Rocks32_Tilemap_144
+  - first:
+      213: 455007838332603787
+    second: Rocks32_Tilemap_145
+  - first:
+      213: 1193734021459515886
+    second: Rocks32_Tilemap_146
+  - first:
+      213: 7824840272931033582
+    second: Rocks32_Tilemap_147
+  - first:
+      213: -1692242104927069285
+    second: Rocks32_Tilemap_148
+  - first:
+      213: -2735030108890666310
+    second: Rocks32_Tilemap_149
+  - first:
+      213: -6985328363018360765
+    second: Rocks32_Tilemap_150
+  - first:
+      213: 2442433250189791241
+    second: Rocks32_Tilemap_151
+  - first:
+      213: -5512398461250439849
+    second: Rocks32_Tilemap_152
+  - first:
+      213: 3288894546513403143
+    second: Rocks32_Tilemap_153
+  - first:
+      213: 8178393594856514727
+    second: Rocks32_Tilemap_154
+  - first:
+      213: -67723316767775038
+    second: Rocks32_Tilemap_155
+  - first:
+      213: 3243047405651429344
+    second: Rocks32_Tilemap_156
+  - first:
+      213: -6307059710797127361
+    second: Rocks32_Tilemap_157
+  - first:
+      213: 7668992142755504976
+    second: Rocks32_Tilemap_158
+  - first:
+      213: -651015341253161157
+    second: Rocks32_Tilemap_159
+  - first:
+      213: 1790233121289768199
+    second: Rocks32_Tilemap_160
+  - first:
+      213: -3425104208806698134
+    second: Rocks32_Tilemap_161
+  - first:
+      213: 7574186665523793739
+    second: Rocks32_Tilemap_162
+  - first:
+      213: -1794670794226226499
+    second: Rocks32_Tilemap_163
+  - first:
+      213: 5346175069100741228
+    second: Rocks32_Tilemap_164
+  - first:
+      213: 2983440788813205288
+    second: Rocks32_Tilemap_165
+  - first:
+      213: 5415964621064190067
+    second: Rocks32_Tilemap_166
+  - first:
+      213: -4571079367110766451
+    second: Rocks32_Tilemap_167
+  - first:
+      213: 7738927783203489322
+    second: Rocks32_Tilemap_168
+  - first:
+      213: 7105477301468591470
+    second: Rocks32_Tilemap_169
+  - first:
+      213: 8301154657202389579
+    second: Rocks32_Tilemap_170
+  - first:
+      213: 6130303168786788620
+    second: Rocks32_Tilemap_171
+  - first:
+      213: 1932794870610033709
+    second: Rocks32_Tilemap_172
+  - first:
+      213: -26382002370799916
+    second: Rocks32_Tilemap_173
+  - first:
+      213: 5586874361707332494
+    second: Rocks32_Tilemap_174
+  - first:
+      213: -4861806925339737953
+    second: Rocks32_Tilemap_175
+  - first:
+      213: -1038833532735746287
+    second: Rocks32_Tilemap_176
+  - first:
+      213: 8020834174265324436
+    second: Rocks32_Tilemap_177
+  - first:
+      213: 5278259228673666916
+    second: Rocks32_Tilemap_178
+  - first:
+      213: 7890704303764113354
+    second: Rocks32_Tilemap_179
+  - first:
+      213: -3418037138544431821
+    second: Rocks32_Tilemap_180
+  - first:
+      213: -6733700080484894345
+    second: Rocks32_Tilemap_181
+  - first:
+      213: 3941194519725940510
+    second: Rocks32_Tilemap_182
+  - first:
+      213: -8742246307491626696
+    second: Rocks32_Tilemap_183
+  - first:
+      213: 4512062760206449470
+    second: Rocks32_Tilemap_184
+  - first:
+      213: -7606707646980678881
+    second: Rocks32_Tilemap_185
+  - first:
+      213: 884628744646354744
+    second: Rocks32_Tilemap_186
+  - first:
+      213: 5853429732680756211
+    second: Rocks32_Tilemap_187
+  - first:
+      213: -646692691194354598
+    second: Rocks32_Tilemap_188
+  - first:
+      213: -1529609452914370807
+    second: Rocks32_Tilemap_189
+  - first:
+      213: 6284053426866001411
+    second: Rocks32_Tilemap_190
+  - first:
+      213: -7258540847967761788
+    second: Rocks32_Tilemap_191
+  - first:
+      213: 4394444789813527861
+    second: Rocks32_Tilemap_192
+  - first:
+      213: -8557502305440331486
+    second: Rocks32_Tilemap_193
+  - first:
+      213: 2308921842089619174
+    second: Rocks32_Tilemap_194
+  - first:
+      213: -4854245849019997106
+    second: Rocks32_Tilemap_195
+  - first:
+      213: 658506163161058849
+    second: Rocks32_Tilemap_196
+  - first:
+      213: -2175239710622440480
+    second: Rocks32_Tilemap_197
+  - first:
+      213: 750802145245329252
+    second: Rocks32_Tilemap_198
+  - first:
+      213: 8967925748667640554
+    second: Rocks32_Tilemap_199
+  - first:
+      213: -8040979700096552286
+    second: Rocks32_Tilemap_200
+  - first:
+      213: -8824485684029993308
+    second: Rocks32_Tilemap_201
+  - first:
+      213: 6259008422218575768
+    second: Rocks32_Tilemap_202
+  - first:
+      213: 1141639717073049324
+    second: Rocks32_Tilemap_48
+  - first:
+      213: -4895785843958437713
+    second: Rocks32_Tilemap_49
+  - first:
+      213: -7751131137578362396
+    second: Rocks32_Tilemap_50
+  - first:
+      213: -1965892803192404227
+    second: Rocks32_Tilemap_51
+  - first:
+      213: -6900460840143602427
+    second: Rocks32_Tilemap_52
+  - first:
+      213: 9198075803104531009
+    second: Rocks32_Tilemap_53
+  - first:
+      213: 7592502265470132001
+    second: Rocks32_Tilemap_54
+  - first:
+      213: -5417197335564496041
+    second: Rocks32_Tilemap_55
+  - first:
+      213: -3571946195943979522
+    second: Rocks32_Tilemap_56
+  - first:
+      213: -9132962926973958628
+    second: Rocks32_Tilemap_57
+  - first:
+      213: -7756875632407950973
+    second: Rocks32_Tilemap_58
+  - first:
+      213: 6700772121659960110
+    second: Rocks32_Tilemap_59
+  - first:
+      213: -4622052111108933565
+    second: Rocks32_Tilemap_60
+  - first:
+      213: -4526023984337244711
+    second: Rocks32_Tilemap_61
+  - first:
+      213: -5756907163494105903
+    second: Rocks32_Tilemap_62
+  - first:
+      213: -4091938930134199678
+    second: Rocks32_Tilemap_63
+  - first:
+      213: -2989638777276742784
+    second: Rocks32_Tilemap_64
+  - first:
+      213: 8564415505744244684
+    second: Rocks32_Tilemap_65
+  - first:
+      213: 549105463087095425
+    second: Rocks32_Tilemap_66
+  - first:
+      213: -152391328237345859
+    second: Rocks32_Tilemap_67
+  - first:
+      213: -5812199575812630046
+    second: Rocks32_Tilemap_68
+  - first:
+      213: 6764108692808172218
+    second: Rocks32_Tilemap_69
+  - first:
+      213: -8887366235289766016
+    second: Rocks32_Tilemap_70
+  - first:
+      213: 2372451205045274603
+    second: Rocks32_Tilemap_71
+  - first:
+      213: -5451934898979040819
+    second: Rocks32_Tilemap_72
+  - first:
+      213: 7776571211611865356
+    second: Rocks32_Tilemap_73
+  - first:
+      213: 7800089802557912666
+    second: Rocks32_Tilemap_74
+  - first:
+      213: -5714047453198231903
+    second: Rocks32_Tilemap_75
+  - first:
+      213: 4621263975081099082
+    second: Rocks32_Tilemap_76
+  - first:
+      213: 6112236299735254300
+    second: Rocks32_Tilemap_77
+  - first:
+      213: -1411021879630621313
+    second: Rocks32_Tilemap_78
+  - first:
+      213: -6032694669854880513
+    second: Rocks32_Tilemap_79
+  - first:
+      213: -1594419761777042949
+    second: Rocks32_Tilemap_80
+  - first:
+      213: -8853074548383441761
+    second: Rocks32_Tilemap_81
+  - first:
+      213: -366083133244384392
+    second: Rocks32_Tilemap_82
+  - first:
+      213: 4664041200708633892
+    second: Rocks32_Tilemap_83
+  - first:
+      213: 3848946215875485841
+    second: Rocks32_Tilemap_84
+  - first:
+      213: -3157715329836955436
+    second: Rocks32_Tilemap_85
+  - first:
+      213: 3708696132836169439
+    second: Rocks32_Tilemap_86
+  - first:
+      213: 8870276438015673400
+    second: Rocks32_Tilemap_87
+  - first:
+      213: 4439329185964567931
+    second: Rocks32_Tilemap_88
+  - first:
+      213: 919722470475822356
+    second: Rocks32_Tilemap_89
+  - first:
+      213: 6229456085287417043
+    second: Rocks32_Tilemap_90
+  - first:
+      213: 7784324091065009787
+    second: Rocks32_Tilemap_91
+  - first:
+      213: -7187687848080177018
+    second: Rocks32_Tilemap_92
+  - first:
+      213: 8884058467088777313
+    second: Rocks32_Tilemap_93
+  - first:
+      213: 5677758789333250917
+    second: Rocks32_Tilemap_94
+  - first:
+      213: 7615781333410433654
+    second: Rocks32_Tilemap_95
+  - first:
+      213: 6683775407132653881
+    second: Rocks32_Tilemap_96
+  - first:
+      213: -7044649551507370204
+    second: Rocks32_Tilemap_97
+  - first:
+      213: -1226629267782906676
+    second: Rocks32_Tilemap_98
+  - first:
+      213: 2537674792312773101
+    second: Rocks32_Tilemap_99
+  - first:
+      213: -1866909232755893949
+    second: Rocks32_Tilemap_100
+  - first:
+      213: -6523636155154199146
+    second: Rocks32_Tilemap_101
+  - first:
+      213: -1745132290428889793
+    second: Rocks32_Tilemap_102
+  - first:
+      213: -93650988700551939
+    second: Rocks32_Tilemap_103
+  - first:
+      213: 3015723329426112255
+    second: Rocks32_Tilemap_104
+  - first:
+      213: -2541742965908652395
+    second: Rocks32_Tilemap_105
+  - first:
+      213: -349816773990450948
+    second: Rocks32_Tilemap_106
+  - first:
+      213: -3421004124087670840
+    second: Rocks32_Tilemap_107
+  - first:
+      213: 2674162568451441897
+    second: Rocks32_Tilemap_108
+  - first:
+      213: 3297160924617259308
+    second: Rocks32_Tilemap_109
+  - first:
+      213: -4235675622295435825
+    second: Rocks32_Tilemap_110
+  - first:
+      213: -971551273225141311
+    second: Rocks32_Tilemap_111
+  - first:
+      213: 2706465274855103564
+    second: Rocks32_Tilemap_112
+  - first:
+      213: -1373535792732591701
+    second: Rocks32_Tilemap_113
+  - first:
+      213: -4153625662059047146
+    second: Rocks32_Tilemap_114
+  - first:
+      213: -6379958550901602501
+    second: Rocks32_Tilemap_115
+  - first:
+      213: 1820281757787225556
+    second: Rocks32_Tilemap_116
+  - first:
+      213: -2785587786397988826
+    second: Rocks32_Tilemap_117
+  - first:
+      213: 9007487750621397759
+    second: Rocks32_Tilemap_118
+  - first:
+      213: 8708281201160164529
+    second: Rocks32_Tilemap_119
+  - first:
+      213: -8125427320729392734
+    second: Rocks32_Tilemap_120
+  - first:
+      213: -4671545153084700863
+    second: Rocks32_Tilemap_121
+  - first:
+      213: -1617595836978920496
+    second: Rocks32_Tilemap_122
+  - first:
+      213: -4794693281167158417
+    second: Rocks32_Tilemap_123
+  - first:
+      213: 3713292861591437124
+    second: Rocks32_Tilemap_124
+  - first:
+      213: -3028497001220522055
+    second: Rocks32_Tilemap_125
+  - first:
+      213: 4658198465985892534
+    second: Rocks32_Tilemap_126
+  - first:
+      213: -7435381405304788985
+    second: Rocks32_Tilemap_127
+  - first:
+      213: 6214653727968068805
+    second: Rocks32_Tilemap_128
+  - first:
+      213: 3767198049951853756
+    second: Rocks32_Tilemap_129
+  - first:
+      213: -2177301273156428575
+    second: Rocks32_Tilemap_130
+  - first:
+      213: -3383127590278769812
+    second: Rocks32_Tilemap_131
+  - first:
+      213: -9219093806196722257
+    second: Rocks32_Tilemap_132
+  - first:
+      213: 889266745888877672
+    second: Rocks32_Tilemap_133
+  - first:
+      213: 1966501496646630306
+    second: Rocks32_Tilemap_134
+  - first:
+      213: -2518202738892140103
+    second: Rocks32_Tilemap_135
+  - first:
+      213: -493305746887719493
+    second: Rocks32_Tilemap_136
+  - first:
+      213: -2796954677946767031
+    second: Rocks32_Tilemap_137
+  - first:
+      213: -8821349471942209652
+    second: Rocks32_Tilemap_138
+  - first:
+      213: 579939104763374140
+    second: Rocks32_Tilemap_139
+  - first:
+      213: -2912414040487288310
+    second: Rocks32_Tilemap_140
+  - first:
+      213: 4443872550589502171
+    second: Rocks32_Tilemap_141
+  - first:
+      213: 1587115110404802528
+    second: Rocks32_Tilemap_142
+  - first:
+      213: 7139181461119704050
+    second: Rocks32_Tilemap_143
+  - first:
+      213: -1822360859709086055
+    second: Rocks32_Tilemap_144
+  - first:
+      213: -2825595018503477254
+    second: Rocks32_Tilemap_145
+  - first:
+      213: 746311479891596984
+    second: Rocks32_Tilemap_146
+  - first:
+      213: 5006126453110022111
+    second: Rocks32_Tilemap_147
+  - first:
+      213: -5582130332095251341
+    second: Rocks32_Tilemap_148
+  - first:
+      213: 8492815204377337009
+    second: Rocks32_Tilemap_149
+  - first:
+      213: -1289855363558077597
+    second: Rocks32_Tilemap_150
+  - first:
+      213: -8605515252183167849
+    second: Rocks32_Tilemap_151
+  - first:
+      213: -3948307593170556259
+    second: Rocks32_Tilemap_152
+  - first:
+      213: -4149748993182569554
+    second: Rocks32_Tilemap_153
+  - first:
+      213: 158247282595405664
+    second: Rocks32_Tilemap_154
+  - first:
+      213: 9075059750414177504
+    second: Rocks32_Tilemap_155
+  - first:
+      213: 1712642044124239684
+    second: Rocks32_Tilemap_156
+  - first:
+      213: -7520212076216514138
+    second: Rocks32_Tilemap_157
+  - first:
+      213: 2414141415384523000
+    second: Rocks32_Tilemap_158
+  - first:
+      213: 4789669467234131598
+    second: Rocks32_Tilemap_159
+  - first:
+      213: 8640693564911897090
+    second: Rocks32_Tilemap_160
+  - first:
+      213: -3669110841226833291
+    second: Rocks32_Tilemap_161
+  - first:
+      213: 7962170816762977741
+    second: Rocks32_Tilemap_162
+  - first:
+      213: 7897496959796485961
+    second: Rocks32_Tilemap_163
+  - first:
+      213: -1048846694518164566
+    second: Rocks32_Tilemap_164
+  - first:
+      213: -7004314941614775663
+    second: Rocks32_Tilemap_165
+  - first:
+      213: -6307739423321089458
+    second: Rocks32_Tilemap_166
+  - first:
+      213: 4579834260434208540
+    second: Rocks32_Tilemap_167
+  - first:
+      213: -5472278058695810790
+    second: Rocks32_Tilemap_168
+  - first:
+      213: 913121535970477155
+    second: Rocks32_Tilemap_169
+  - first:
+      213: -2603755967249521566
+    second: Rocks32_Tilemap_170
+  - first:
+      213: -1412083243027343544
+    second: Rocks32_Tilemap_171
+  - first:
+      213: -2119698879281098552
+    second: Rocks32_Tilemap_172
+  - first:
+      213: -4802166588739320378
+    second: Rocks32_Tilemap_173
+  - first:
+      213: 6111974167777346521
+    second: Rocks32_Tilemap_174
+  - first:
+      213: 8934103658174897269
+    second: Rocks32_Tilemap_175
+  - first:
+      213: 6657343722218117451
+    second: Rocks32_Tilemap_176
+  - first:
+      213: 2215249968436364852
+    second: Rocks32_Tilemap_177
+  - first:
+      213: -694631686089652132
+    second: Rocks32_Tilemap_178
+  - first:
+      213: 4277130903573233299
+    second: Rocks32_Tilemap_179
+  - first:
+      213: 472788763928388656
+    second: Rocks32_Tilemap_180
+  - first:
+      213: -4377925916745117910
+    second: Rocks32_Tilemap_181
+  - first:
+      213: 234238986285191094
+    second: Rocks32_Tilemap_182
+  - first:
+      213: -5920131105034155938
+    second: Rocks32_Tilemap_183
+  - first:
+      213: -3667693563490953577
+    second: Rocks32_Tilemap_184
+  - first:
+      213: 8065276411275911956
+    second: Rocks32_Tilemap_185
+  - first:
+      213: -2588070690037010607
+    second: Rocks32_Tilemap_186
+  - first:
+      213: 2308894203336136238
+    second: Rocks32_Tilemap_187
+  - first:
+      213: 6648334561030002006
+    second: Rocks32_Tilemap_188
+  - first:
+      213: -7411592879137709171
+    second: Rocks32_Tilemap_189
+  - first:
+      213: -3039217368008230167
+    second: Rocks32_Tilemap_190
+  - first:
+      213: 2109418343651235439
+    second: Rocks32_Tilemap_191
+  - first:
+      213: -5049016803698461297
+    second: Rocks32_Tilemap_192
+  - first:
+      213: 6511941725721229830
+    second: Rocks32_Tilemap_193
+  - first:
+      213: 8082132192455291432
+    second: Rocks32_Tilemap_194
+  - first:
+      213: 5696517067332062078
+    second: Rocks32_Tilemap_195
+  - first:
+      213: 4280934512693942058
+    second: Rocks32_Tilemap_196
+  - first:
+      213: 8244111181393901651
+    second: Rocks32_Tilemap_197
+  - first:
+      213: -8816377740470482335
+    second: Rocks32_Tilemap_198
+  - first:
+      213: 8644933793499792365
+    second: Rocks32_Tilemap_199
+  - first:
+      213: -6921793440868168749
+    second: Rocks32_Tilemap_200
+  - first:
+      213: -3477715785136597012
+    second: Rocks32_Tilemap_201
+  - first:
+      213: 7766846206022439022
+    second: Rocks32_Tilemap_202
+  - first:
+      213: -6499423548956112194
+    second: Rocks32_Tilemap_203
+  - first:
+      213: 7135977770338810997
+    second: Rocks32_Tilemap_204
+  - first:
+      213: -2382231740279583599
+    second: Rocks32_Tilemap_205
+  - first:
+      213: 4261986879119840318
+    second: Rocks32_Tilemap_206
+  - first:
+      213: -1691393531232407290
+    second: Rocks32_Tilemap_207
+  - first:
+      213: -6229260866129652740
+    second: Rocks32_Tilemap_208
+  - first:
+      213: -3615018361884801675
+    second: Rocks32_Tilemap_209
+  - first:
+      213: 6966023968831630096
+    second: Rocks32_Tilemap_210
+  - first:
+      213: 7457554201489597004
+    second: Rocks32_Tilemap_211
+  - first:
+      213: 6022139761890025336
+    second: Rocks32_Tilemap_212
+  - first:
+      213: 396423752197577852
+    second: Rocks32_Tilemap_213
+  - first:
+      213: 5097474993794145102
+    second: Rocks32_Tilemap_214
+  - first:
+      213: -5826095222223191078
+    second: Rocks32_Tilemap_215
+  - first:
+      213: -5892170264290608688
+    second: Rocks32_Tilemap_216
+  - first:
+      213: -1443793266300552351
+    second: Rocks32_Tilemap_217
+  - first:
+      213: 4441788875586022057
+    second: Rocks32_Tilemap_218
+  - first:
+      213: -3440406840295880700
+    second: Rocks32_Tilemap_219
+  - first:
+      213: -805084901141151191
+    second: Rocks32_Tilemap_220
+  - first:
+      213: 508284545561857022
+    second: Rocks32_Tilemap_221
+  - first:
+      213: 3324945426554565184
+    second: Rocks32_Tilemap_222
+  - first:
+      213: 1389700467519595627
+    second: Rocks32_Tilemap_223
+  - first:
+      213: -4157087225017666064
+    second: Rocks32_Tilemap_224
+  - first:
+      213: -2487419519319280616
+    second: Rocks32_Tilemap_225
+  - first:
+      213: 3953578069523983947
+    second: Rocks32_Tilemap_226
+  - first:
+      213: 1008078455768280245
+    second: Rocks32_Tilemap_227
+  - first:
+      213: -1907663434764617354
+    second: Rocks32_Tilemap_228
+  - first:
+      213: 1824304275065633029
+    second: Rocks32_Tilemap_229
+  - first:
+      213: -5172242973844397170
+    second: Rocks32_Tilemap_230
+  - first:
+      213: -5501444741389822089
+    second: Rocks32_Tilemap_231
+  - first:
+      213: 1951138680209196282
+    second: Rocks32_Tilemap_232
+  - first:
+      213: -6560222241624386352
+    second: Rocks32_Tilemap_233
+  - first:
+      213: -3882472353933048508
+    second: Rocks32_Tilemap_234
+  - first:
+      213: -7064294297028378199
+    second: Rocks32_Tilemap_235
+  - first:
+      213: 3654448127129724906
+    second: Rocks32_Tilemap_236
+  - first:
+      213: 8006931839535347194
+    second: Rocks32_Tilemap_237
+  - first:
+      213: 5573680220837264840
+    second: Rocks32_Tilemap_238
+  - first:
+      213: 1571787075074587866
+    second: Rocks32_Tilemap_239
+  - first:
+      213: -2730349274023161749
+    second: Rocks32_Tilemap_240
+  - first:
+      213: -434472512626228157
+    second: Rocks32_Tilemap_241
+  - first:
+      213: -7705819395632315070
+    second: Rocks32_Tilemap_242
+  - first:
+      213: 1384729147213799806
+    second: Rocks32_Tilemap_243
+  - first:
+      213: 4597961660619363806
+    second: Rocks32_Tilemap_244
+  - first:
+      213: -1273963835869801436
+    second: Rocks32_Tilemap_245
+  - first:
+      213: 3001269025613853167
+    second: Rocks32_Tilemap_246
+  - first:
+      213: 1495100535441565227
+    second: Rocks32_Tilemap_247
+  - first:
+      213: 2467192442362838639
+    second: Rocks32_Tilemap_248
+  - first:
+      213: 8454989084482936342
+    second: Rocks32_Tilemap_249
+  - first:
+      213: 6879019895450269148
+    second: Rocks32_Tilemap_250
+  - first:
+      213: -4501726996846437214
+    second: Rocks32_Tilemap_251
+  - first:
+      213: 6066841298156992779
+    second: Rocks32_Tilemap_252
+  - first:
+      213: -3818423234722184247
+    second: Rocks32_Tilemap_253
+  - first:
+      213: 3455482461110429442
+    second: Rocks32_Tilemap_254
+  - first:
+      213: 2252613814914380488
+    second: Rocks32_Tilemap_255
+  - first:
+      213: 7177848604352181295
+    second: Rocks32_Tilemap_256
+  - first:
+      213: -7034762248060671229
+    second: Rocks32_Tilemap_257
+  - first:
+      213: -3870100196121629954
+    second: Rocks32_Tilemap_258
+  - first:
+      213: -2751461419770694575
+    second: Rocks32_Tilemap_259
+  - first:
+      213: -9127348465180467060
+    second: Rocks32_Tilemap_260
+  - first:
+      213: -594865673942991536
+    second: Rocks32_Tilemap_261
+  - first:
+      213: 279942151688220320
+    second: Rocks32_Tilemap_262
+  - first:
+      213: 9210844869279121704
+    second: Rocks32_Tilemap_263
+  - first:
+      213: 2496596065907329327
+    second: Rocks32_Tilemap_264
+  - first:
+      213: -9199907837447075839
+    second: Rocks32_Tilemap_265
+  - first:
+      213: 5868034000699206627
+    second: Rocks32_Tilemap_266
+  - first:
+      213: -7621639412358250226
+    second: Rocks32_Tilemap_267
+  - first:
+      213: 519305684308409862
+    second: Rocks32_Tilemap_268
+  - first:
+      213: 5896924034632553354
+    second: Rocks32_Tilemap_269
+  - first:
+      213: 3652984510451924701
+    second: Rocks32_Tilemap_270
+  - first:
+      213: 6098687390122383553
+    second: Rocks32_Tilemap_271
+  - first:
+      213: 5113080389230304518
+    second: Rocks32_Tilemap_272
+  - first:
+      213: 3867065854290261518
+    second: Rocks32_Tilemap_273
+  - first:
+      213: -5875262696109916367
+    second: Rocks32_Tilemap_274
+  - first:
+      213: -4586385562367972297
+    second: Rocks32_Tilemap_275
+  - first:
+      213: 5250823358637343501
+    second: Rocks32_Tilemap_276
+  - first:
+      213: 6678393503379317692
+    second: Rocks32_Tilemap_277
+  - first:
+      213: 5912948515601833761
+    second: Rocks32_Tilemap_278
+  - first:
+      213: 240223263052759284
+    second: Rocks32_Tilemap_279
+  - first:
+      213: -3355079225950020
+    second: Rocks32_Tilemap_280
+  - first:
+      213: -4633305744484385932
+    second: Rocks32_Tilemap_281
+  - first:
+      213: 5529183074618257891
+    second: Rocks32_Tilemap_282
+  - first:
+      213: -6388855881969706907
+    second: Rocks32_Tilemap_283
+  - first:
+      213: -7693709150132285814
+    second: Rocks32_Tilemap_284
+  - first:
+      213: -8756651203076515396
+    second: Rocks32_Tilemap_285
+  - first:
+      213: -9018931525314748302
+    second: Rocks32_Tilemap_286
+  - first:
+      213: -3268052517231197505
+    second: Rocks32_Tilemap_287
+  - first:
+      213: -5311161534432814690
+    second: Rocks32_Tilemap_288
+  - first:
+      213: 2311418094378168915
+    second: Rocks32_Tilemap_289
+  - first:
+      213: 6954252186400393204
+    second: Rocks32_Tilemap_290
+  - first:
+      213: -8502740837888395661
+    second: Rocks32_Tilemap_291
+  - first:
+      213: -3803648927964959051
+    second: Rocks32_Tilemap_292
+  - first:
+      213: 5809326564142206028
+    second: Rocks32_Tilemap_293
+  - first:
+      213: -3597373762956727648
+    second: Rocks32_Tilemap_294
+  - first:
+      213: 4734469882053590336
+    second: Rocks32_Tilemap_295
+  - first:
+      213: -8240629558138765899
+    second: Rocks32_Tilemap_296
+  - first:
+      213: 4275406208239497612
+    second: Rocks32_Tilemap_297
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee2f0eb89abe63a0800000000000000
+      internalID: -6670188832902664474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de76b9d277a9f6020800000000000000
+      internalID: 2337256568285521901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ad23021f8c4bca0800000000000000
+      internalID: -6001951465425151415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147df3745f23bec10800000000000000
+      internalID: 2083815281632728897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e70a4af4610ef760800000000000000
+      internalID: 7493428363198597091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6aa4abce10a5b2d0800000000000000
+      internalID: -3263526300834026897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cb0afeb673d04c0800000000000000
+      internalID: -4319735530857120707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda259cd182c633c0800000000000000
+      internalID: -4380099724563895589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e20c7ace044a7ad0800000000000000
+      internalID: -2703773795965205787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d0125b100adb3c0800000000000000
+      internalID: -4342138536521036501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b497d6a14a061b0800000000000000
+      internalID: -5665347897819313343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f747f50bcdde7070800000000000000
+      internalID: 8106160243361662960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e197339bf40c91350800000000000000
+      internalID: 5988028628207892766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516618f9acdc1e120800000000000000
+      internalID: 2441458743154664981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe558f2d53417320800000000000000
+      internalID: 2553896531204071153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561c9c0d53d9e9f00800000000000000
+      internalID: 1125509811350913381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5267eb01c90fc50800000000000000
+      internalID: 6697024241628751304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef344bd85e9185e60800000000000000
+      internalID: 7951133615838217214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76ced91d1d522b20800000000000000
+      internalID: 3108149072408528506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e19c358281345f0800000000000000
+      internalID: -773748149494145521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e1e8ab1a25d2310800000000000000
+      internalID: 1381851515245698655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6378da71332e3530800000000000000
+      internalID: 3836542627987616619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee98885abf1379a0800000000000000
+      internalID: -6236606173768278293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fc47d513417a6b0800000000000000
+      internalID: -5285233435442098385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f00e79fd199620800000000000000
+      internalID: 2781287202276046609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3efcae8f12e6fe0800000000000000
+      internalID: -1193979498231503939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f6b5ef5ecab3e50800000000000000
+      internalID: 6790210967006048012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128a64f1309cbbfa0800000000000000
+      internalID: -5783808281180461023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a16484e74f2b7220800000000000000
+      internalID: 2484631605248024992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc908ec10ac81a60800000000000000
+      internalID: 7645082476569730263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642495ae9060f6400800000000000000
+      internalID: 319480738222785094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40edd39ed5091db30800000000000000
+      internalID: 4310385051389779460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0797c8487f4f89970800000000000000
+      internalID: 8762022418967198064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b2178f62d20ff50800000000000000
+      internalID: 6913075073413884742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb25280f3c27da3e0800000000000000
+      internalID: -2040848870249704769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcd06a0523f65c90800000000000000
+      internalID: -7181285215382217514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cf77cd53c649030800000000000000
+      internalID: 3500541788961635477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e78fb197433b40800000000000000
+      internalID: 5418753467966022358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a721d771184ce10800000000000000
+      internalID: 2217038854455720508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cded9bc2cc455f0800000000000000
+      internalID: -768765143904494472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c1124a7269aa3d0800000000000000
+      internalID: -3194575888664421232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee3c537dbf250c80800000000000000
+      internalID: -8357221042785337628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff6a72ccc1246cd0800000000000000
+      internalID: -2565888724374491147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b59d4cf3400f60800000000000000
+      internalID: 7998467689122476387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a1b492094dadc70800000000000000
+      internalID: 8996736921259153974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5017a10d5152ab5e0800000000000000
+      internalID: -1893159917739937531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8a9515b1e5fca30800000000000000
+      internalID: 4237709245800884427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce1e0edf30b6ca20800000000000000
+      internalID: 3082344783336578767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6dd95264be7df00800000000000000
+      internalID: 1141639717073049324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8a872c6bcae0cb0800000000000000
+      internalID: -4895785843958437713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e91c213c437e6490800000000000000
+      internalID: -7751131137578362396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6483749eeb7b4e0800000000000000
+      internalID: -1965892803192404227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d3fb41d63ac30a0800000000000000
+      internalID: -6900460840143602427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142592d953126af70800000000000000
+      internalID: 9198075803104531009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f12b9659cfd5960800000000000000
+      internalID: 7592502265470132001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7535c7f89bf32d4b0800000000000000
+      internalID: -5417197335564496041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef583f91cd5ed6ec0800000000000000
+      internalID: -3571946195943979522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16c7ee3b92314180800000000000000
+      internalID: -9132962926973958628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389c073c5ba0a5490800000000000000
+      internalID: -7756875632407950973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2be1601ebcedfc50800000000000000
+      internalID: 6700772121659960110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348f108f71c2bdfb0800000000000000
+      internalID: -4622052111108933565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd2ea88a255031c0800000000000000
+      internalID: -4526023984337244711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc380baf6b5b10b0800000000000000
+      internalID: -5756907163494105903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28252ca19338637c0800000000000000
+      internalID: -4091938930134199678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083cfa13f5ba286d0800000000000000
+      internalID: -2989638777276742784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfabb8b68aead670800000000000000
+      internalID: 8564415505744244684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e58876280de9700800000000000000
+      internalID: 549105463087095425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32095f4e892edf0800000000000000
+      internalID: -152391328237345859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e91308b74be65fa0800000000000000
+      internalID: -5812199575812630046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab286f0b401fedd50800000000000000
+      internalID: 6764108692808172218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087b0cc0f7bb9a480800000000000000
+      internalID: -8887366235289766016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7cbab1dc3ace020800000000000000
+      internalID: 2372451205045274603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc19ccf4816d654b0800000000000000
+      internalID: -5451934898979040819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0187ae905eebeb60800000000000000
+      internalID: 7776571211611865356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a567c99495c7f3c60800000000000000
+      internalID: 7800089802557912666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6d46a9d10a3b0b0800000000000000
+      internalID: -5714047453198231903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fb400d917022040800000000000000
+      internalID: 4621263975081099082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15c7f4d78603d450800000000000000
+      internalID: 6112236299735254300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75105e831b0b6ce0800000000000000
+      internalID: -1411021879630621313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc48ec0920974ca0800000000000000
+      internalID: -6032694669854880513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf99a6c9cab7fd9e0800000000000000
+      internalID: -1594419761777042949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c9d859a9f832580800000000000000
+      internalID: -8853074548383441761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bd4b474596beaf0800000000000000
+      internalID: -366083133244384392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425460ac2c00ab040800000000000000
+      internalID: 4664041200708633892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190a7d4d0343a6530800000000000000
+      internalID: 3848946215875485841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8434743aa8d24d0800000000000000
+      internalID: -3157715329836955436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd69099bb7fe77330800000000000000
+      internalID: 3708696132836169439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83401737c6d891b70800000000000000
+      internalID: 8870276438015673400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d2172cf5aab9d30800000000000000
+      internalID: 4439329185964567931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415f7a8c6b283cc00800000000000000
+      internalID: 919722470475822356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_90
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4b373fd49737650800000000000000
+      internalID: 6229456085287417043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_91
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7602788489770c60800000000000000
+      internalID: 7784324091065009787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_92
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6880ac2fbf3304c90800000000000000
+      internalID: -7187687848080177018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_93
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160c0a62b148a4b70800000000000000
+      internalID: 8884058467088777313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_94
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5637f8e69837bce40800000000000000
+      internalID: 5677758789333250917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_95
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67acaf8c5c0b0b960800000000000000
+      internalID: 7615781333410433654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93932a4125a81cc50800000000000000
+      internalID: 6683775407132653881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fc94b9e806c3e90800000000000000
+      internalID: -7044649551507370204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccc3be0e232afee0800000000000000
+      internalID: -1226629267782906676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9144747c1a73320800000000000000
+      internalID: 2537674792312773101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34910b1b1f76716e0800000000000000
+      internalID: -1866909232755893949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d83280b736775a0800000000000000
+      internalID: -6523636155154199146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f351cee8d6b08c7e0800000000000000
+      internalID: -1745132290428889793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4b3a50ce843bef0800000000000000
+      internalID: -93650988700551939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe3d4fd3600ad920800000000000000
+      internalID: 3015723329426112255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ebaae3d3ae9bcd0800000000000000
+      internalID: -2541742965908652395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf873d95f73352bf0800000000000000
+      internalID: -349816773990450948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7ab98dfd62680d0800000000000000
+      internalID: -3421004124087670840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4c13c00b88c1520800000000000000
+      internalID: 2674162568451441897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c293c1f446ed1cd20800000000000000
+      internalID: 3297160924617259308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc58c4d867bd735c0800000000000000
+      internalID: -4235675622295435825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c34656b34b5482f0800000000000000
+      internalID: -971551273225141311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c1ba8f3db4f8520800000000000000
+      internalID: 2706465274855103564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_113
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9a3eb497830fce0800000000000000
+      internalID: -1373535792732591701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_114
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617160b977b5b56c0800000000000000
+      internalID: -4153625662059047146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_115
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b374bcb1085d577a0800000000000000
+      internalID: -6379958550901602501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_116
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddf70c4d90f24910800000000000000
+      internalID: 1820281757787225556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_117
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628c41dbaaa9759d0800000000000000
+      internalID: -2785587786397988826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_118
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2887ea266010d70800000000000000
+      internalID: 9007487750621397759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_119
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b41d5f2d970ad870800000000000000
+      internalID: 8708281201160164529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_120
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9aba3f6eeac3f80800000000000000
+      internalID: -8125427320729392734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_121
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14740362f665b2fb0800000000000000
+      internalID: -4671545153084700863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_122
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d388ba18252d89e0800000000000000
+      internalID: -1617595836978920496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_123
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6354193dd3d57db0800000000000000
+      internalID: -4794693281167158417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_124
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fb62a0f24488330800000000000000
+      internalID: 3713292861591437124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_125
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf3ae6e50e98f5d0800000000000000
+      internalID: -3028497001220522055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_126
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0db5a13de35a040800000000000000
+      internalID: 4658198465985892534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_127
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7086347910830d890800000000000000
+      internalID: -7435381405304788985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_128
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4089193a2ee3650800000000000000
+      internalID: 6214653727968068805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_129
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcacedbaa6c74430800000000000000
+      internalID: 3767198049951853756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_130
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec5184270ca8c1e0800000000000000
+      internalID: -2177301273156428575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_131
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c635c979167bc01d0800000000000000
+      internalID: -3383127590278769812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_132
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5f3a237033f0080800000000000000
+      internalID: -9219093806196722257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_133
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c2643d46f475c00800000000000000
+      internalID: 889266745888877672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_134
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab75e531ba6a4b10800000000000000
+      internalID: 1966501496646630306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_135
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b11be373fb8d0dd0800000000000000
+      internalID: -2518202738892140103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5491f690d6729f0800000000000000
+      internalID: -493305746887719493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949ad101a883f29d0800000000000000
+      internalID: -2796954677946767031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f0e4d8465449580800000000000000
+      internalID: -8821349471942209652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a67ca0b8b5c0800800000000000000
+      internalID: 579939104763374140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0225ed5cd60597d0800000000000000
+      internalID: -2912414040487288310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd21ff44a8ecbad30800000000000000
+      internalID: 4443872550589502171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e74555b8c0960610800000000000000
+      internalID: 1587115110404802528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb1811c6b7731360800000000000000
+      internalID: 7139181461119704050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_144
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996e670147ca5b6e0800000000000000
+      internalID: -1822360859709086055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_145
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7acf22d4879c8d0800000000000000
+      internalID: -2825595018503477254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_146
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b61cba365e6b5a00800000000000000
+      internalID: 746311479891596984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_147
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf1f4a4c75597540800000000000000
+      internalID: 5006126453110022111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_148
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c7781d90a4882b0800000000000000
+      internalID: -5582130332095251341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_149
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc92f77e6a8cd570800000000000000
+      internalID: 8492815204377337009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_150
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b0d7b7163891ee0800000000000000
+      internalID: -1289855363558077597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_151
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c8a6cd871139880800000000000000
+      internalID: -8605515252183167849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a671db92bc439c0800000000000000
+      internalID: -3948307593170556259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_153
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab615ae6412966c0800000000000000
+      internalID: -4149748993182569554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_154
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f15c9a015323200800000000000000
+      internalID: 158247282595405664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_155
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4d1e2e2c611fd70800000000000000
+      internalID: 9075059750414177504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4479c6b7dd684c710800000000000000
+      internalID: 1712642044124239684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_157
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a90381e5f6d2a790800000000000000
+      internalID: -7520212076216514138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_158
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0ad8d93d0c08120800000000000000
+      internalID: 2414141415384523000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_159
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e5602f003587240800000000000000
+      internalID: 4789669467234131598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_160
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ac3955409e9e770800000000000000
+      internalID: 8640693564911897090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_161
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572d3233123b41dc0800000000000000
+      internalID: -3669110841226833291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_162
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd93262c205f7e60800000000000000
+      internalID: 7962170816762977741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_163
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f956764ab899d60800000000000000
+      internalID: 7897496959796485961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_164
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3f6650d7fb171f0800000000000000
+      internalID: -1048846694518164566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_165
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192271acbacabce90800000000000000
+      internalID: -7004314941614775663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_166
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a18311a686678a0800000000000000
+      internalID: -6307739423321089458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_167
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17485faef6de8f30800000000000000
+      internalID: 4579834260434208540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_168
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11a54759109e04b0800000000000000
+      internalID: -5472278058695810790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_169
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3648744f23f0cac00800000000000000
+      internalID: 913121535970477155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_170
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264e94a3eb99ddbd0800000000000000
+      internalID: -2603755967249521566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_171
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847d212a5c5476ce0800000000000000
+      internalID: -1412083243027343544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_172
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c018a599115592e0800000000000000
+      internalID: -2119698879281098552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_173
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c581f53ee64b5db0800000000000000
+      internalID: -4802166588739320378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_174
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d38bba7f1812d450800000000000000
+      internalID: 6111974167777346521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_175
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c580431ff4cfb70800000000000000
+      internalID: 8934103658174897269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49dc7ed7d2a36c50800000000000000
+      internalID: 6657343722218117451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43648510c162ebe10800000000000000
+      internalID: 2215249968436364852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5845ec692c2c56f0800000000000000
+      internalID: -694631686089652132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ef35545eb6b5b30800000000000000
+      internalID: 4277130903573233299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0346fb730eeaf8600800000000000000
+      internalID: 472788763928388656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f4e6fe29b7e33c0800000000000000
+      internalID: -4377925916745117910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf8312fd1f204300800000000000000
+      internalID: 234238986285191094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58c2bc402877dda0800000000000000
+      internalID: -5920131105034155938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7969223e22cb91dc0800000000000000
+      internalID: -3667693563490953577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41320751a2e9def60800000000000000
+      internalID: 8065276411275911956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f6eba6b63551cd0800000000000000
+      internalID: -2588070690037010607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e261fcd7b07da0020800000000000000
+      internalID: 2308894203336136238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65555221f01a34c50800000000000000
+      internalID: 6648334561030002006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83ae237b8bb42990800000000000000
+      internalID: -7411592879137709171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eafba008e782d5d0800000000000000
+      internalID: -3039217368008230167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f665600bec8264d10800000000000000
+      internalID: 2109418343651235439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f853396c7f94ee9b0800000000000000
+      internalID: -5049016803698461297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a78af6f701f5a50800000000000000
+      internalID: 6511941725721229830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822fb077860892070800000000000000
+      internalID: 8082132192455291432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b074f57181e0f40800000000000000
+      internalID: 5696517067332062078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2715d7024fe86b30800000000000000
+      internalID: 4280934512693942058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3583fc7b077f86270800000000000000
+      internalID: 8244111181393901651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a889df72fe5a580800000000000000
+      internalID: -8816377740470482335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3435c7b79f8f770800000000000000
+      internalID: 8644933793499792365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db8c6ce989d0ff90800000000000000
+      internalID: -6921793440868168749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce71a2d4bebacbfc0800000000000000
+      internalID: -3477715785136597012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60de0f497169cb60800000000000000
+      internalID: 7766846206022439022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba89a7b7b86dc5a0800000000000000
+      internalID: -6499423548956112194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cf02e59f5180360800000000000000
+      internalID: 7135977770338810997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_205
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c89f39adc90fed0800000000000000
+      internalID: -2382231740279583599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34505f4c7e952b30800000000000000
+      internalID: 4261986879119840318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601bf737b86f688e0800000000000000
+      internalID: -1691393531232407290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3991d0f383d89a0800000000000000
+      internalID: -6229260866129652740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575875bf3ffd4ddc0800000000000000
+      internalID: -3615018361884801675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01be01f54e94ca060800000000000000
+      internalID: 6966023968831630096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c426201d80e8e7760800000000000000
+      internalID: 7457554201489597004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fd53fe430f29350800000000000000
+      internalID: 6022139761890025336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c93426d41608500800000000000000
+      internalID: 396423752197577852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b5980df7eddb640800000000000000
+      internalID: 5097474993794145102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_215
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad349cb634d852fa0800000000000000
+      internalID: -5826095222223191078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9b6d8dc5eca3ea0800000000000000
+      internalID: -5892170264290608688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_217
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bfd018cad96fbe0800000000000000
+      internalID: -1443793266300552351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_218
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa2690e27764ad30800000000000000
+      internalID: 4441788875586022057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_219
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4080751f4383140d0800000000000000
+      internalID: -3440406840295880700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_220
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92283754c83c3d4f0800000000000000
+      internalID: -805084901141151191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_221
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb0907e91acd0700800000000000000
+      internalID: 508284545561857022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0423857cf34942e20800000000000000
+      internalID: 3324945426554565184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6423b65635394310800000000000000
+      internalID: 1389700467519595627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_224
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5f18ca13f0f46c0800000000000000
+      internalID: -4157087225017666064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_225
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814f9974029ea7dd0800000000000000
+      internalID: -2487419519319280616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_226
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e60c9ae4eedd630800000000000000
+      internalID: 3953578069523983947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_227
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bceac5b30a6dfd00800000000000000
+      internalID: 1008078455768280245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_228
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6797adb963e9685e0800000000000000
+      internalID: -1907663434764617354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_229
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5097385921b315910800000000000000
+      internalID: 1824304275065633029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_230
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83aef34b608838b0800000000000000
+      internalID: -5172242973844397170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_231
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777d406d721f6a3b0800000000000000
+      internalID: -5501444741389822089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c465ca46d31b10800000000000000
+      internalID: 1951138680209196282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_233
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d49c58f0a865f4a0800000000000000
+      internalID: -6560222241624386352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_234
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445cb8dd6ffae1ac0800000000000000
+      internalID: -3882472353933048508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_235
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a14eccd3c596fd90800000000000000
+      internalID: -7064294297028378199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_236
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7a8a3a53537b230800000000000000
+      internalID: 3654448127129724906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_237
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5f444e5165e1f60800000000000000
+      internalID: 8006931839535347194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_238
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd30a651a0b95d40800000000000000
+      internalID: 5573680220837264840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_239
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcfe50640c10d510800000000000000
+      internalID: 1571787075074587866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b609a112dc9db1ad0800000000000000
+      internalID: -2730349274023161749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3440e3c3d8178f9f0800000000000000
+      internalID: -434472512626228157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245450c361e6f0590800000000000000
+      internalID: -7705819395632315070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71eec1a2db873310800000000000000
+      internalID: 1384729147213799806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_244
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed51510f4cd3fcf30800000000000000
+      internalID: 4597961660619363806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_245
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424594a14a8f15ee0800000000000000
+      internalID: -1273963835869801436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_246
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1b8130746a6a920800000000000000
+      internalID: 3001269025613853167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_247
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26ad7ef30aafb410800000000000000
+      internalID: 1495100535441565227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_248
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eb09f547a3d3220800000000000000
+      internalID: 2467192442362838639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_249
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e1960a6c7265570800000000000000
+      internalID: 8454989084482936342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_250
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd57827f520377f50800000000000000
+      internalID: 6879019895450269148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_251
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac9e25c527a681c0800000000000000
+      internalID: -4501726996846437214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0931556400c13450800000000000000
+      internalID: 6066841298156992779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_253
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c349448c4c320bc0800000000000000
+      internalID: -3818423234722184247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_254
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207641e8df654ff20800000000000000
+      internalID: 3455482461110429442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_255
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2fb1e6454e24f10800000000000000
+      internalID: 2252613814914380488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_256
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24f1f99647dc9360800000000000000
+      internalID: 7177848604352181295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_257
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30be305d1018f5e90800000000000000
+      internalID: -7034762248060671229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_258
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa20055064aa4ac0800000000000000
+      internalID: -3870100196121629954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_259
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1543065aa68d0d9d0800000000000000
+      internalID: -2751461419770694575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_260
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8026bffde4255180800000000000000
+      internalID: -9127348465180467060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_261
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dfd8f32dc9eb7f0800000000000000
+      internalID: -594865673942991536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_262
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aee80d57ed82e300800000000000000
+      internalID: 279942151688220320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_263
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8218c928b9e73df70800000000000000
+      internalID: 9210844869279121704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f294b08f4e0b5a220800000000000000
+      internalID: 2496596065907329327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_265
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10882a6a09c535080800000000000000
+      internalID: -9199907837447075839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_266
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb279d55d17f6150800000000000000
+      internalID: 5868034000699206627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_267
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01054ce55f7a3690800000000000000
+      internalID: -7621639412358250226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_268
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e3b0bb4c1f43700800000000000000
+      internalID: 519305684308409862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_269
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a839cbf8a2516d150800000000000000
+      internalID: 5896924034632553354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_270
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddebd73de0202b230800000000000000
+      internalID: 3652984510451924701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_271
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8166c7ed3e2a450800000000000000
+      internalID: 6098687390122383553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_272
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d9614168f45f640800000000000000
+      internalID: 5113080389230304518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_273
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e067308e7e39aa530800000000000000
+      internalID: 3867065854290261518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_274
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fb344d4bfd67ea0800000000000000
+      internalID: -5875262696109916367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_275
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ca31871a2e950c0800000000000000
+      internalID: -4586385562367972297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_276
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0307ed460caed840800000000000000
+      internalID: 5250823358637343501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_277
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb36337f18b6eac50800000000000000
+      internalID: 6678393503379317692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_278
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fde97c8530f0250800000000000000
+      internalID: 5912948515601833761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_279
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f08b05f8c1755300800000000000000
+      internalID: 240223263052759284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb04b8eb29414fff0800000000000000
+      internalID: -3355079225950020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_281
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b3b3449f033bfb0800000000000000
+      internalID: -4633305744484385932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_282
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e139b426ba9bbc40800000000000000
+      internalID: 5529183074618257891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_283
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d70acc693657a0800000000000000
+      internalID: -6388855881969706907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_284
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e413d7a447a3590800000000000000
+      internalID: -7693709150132285814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_285
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb990a220202a7680800000000000000
+      internalID: -8756651203076515396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_286
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270ea04ef8156d280800000000000000
+      internalID: -9018931525314748302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_287
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb20d1bec8b85a2d0800000000000000
+      internalID: -3268052517231197505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_288
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99d96369b6fa46b0800000000000000
+      internalID: -5311161534432814690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_289
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35232daa28ec31020800000000000000
+      internalID: 2311418094378168915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_290
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f701e0b487728060800000000000000
+      internalID: 6954252186400393204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_291
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3767474e142300a80800000000000000
+      internalID: -8502740837888395661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_292
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be6a5ed379b63bc0800000000000000
+      internalID: -3803648927964959051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_293
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ccfef1bbfde9050800000000000000
+      internalID: 5809326564142206028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_294
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa67ae4f9f831ec0800000000000000
+      internalID: -3597373762956727648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_295
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04df69ff54734b140800000000000000
+      internalID: 4734469882053590336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_296
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdfd8dd31763ad80800000000000000
+      internalID: -8240629558138765899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks32_Tilemap_297
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c817d985b4b455b30800000000000000
+      internalID: 4275406208239497612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

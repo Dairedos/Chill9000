@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Water_Blue_BubblesDown
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 2985566803586647824, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 4132709668998289072, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: -6001668476462058530, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 6896625435958188506, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 821863696037766094, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 5041690010884121840, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: -7511549689487450581, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: -38823761638029983, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Water_Purple_BubblesUp
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 3408884729132232639, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 2870330206289495527, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 5922978846051266345, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 4410943792868311189, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 967325449965595780, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: -7660822934522428219, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 170558574114954762, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: -2929281719451338621, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_TileColliderType: 1

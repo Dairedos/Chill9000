@@ -1,0 +1,3916 @@
+fileFormatVersion: 2
+guid: 31a4eb6fe5ee70847802a45511223b9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8610424376656568099
+    second: Jungle32_Tilemap_0
+  - first:
+      213: 3984030775033207707
+    second: Jungle32_Tilemap_1
+  - first:
+      213: -4160965984645275300
+    second: Jungle32_Tilemap_2
+  - first:
+      213: 5352145240497958000
+    second: Jungle32_Tilemap_3
+  - first:
+      213: 3623248685374398588
+    second: Jungle32_Tilemap_4
+  - first:
+      213: -7418198594216701973
+    second: Jungle32_Tilemap_5
+  - first:
+      213: -304311307410654983
+    second: Jungle32_Tilemap_6
+  - first:
+      213: 3470455308645932864
+    second: Jungle32_Tilemap_7
+  - first:
+      213: 4820511235183991931
+    second: Jungle32_Tilemap_8
+  - first:
+      213: 3677872069674334720
+    second: Jungle32_Tilemap_9
+  - first:
+      213: -3941606239363926063
+    second: Jungle32_Tilemap_10
+  - first:
+      213: -373993108124539222
+    second: Jungle32_Tilemap_11
+  - first:
+      213: 5979529916437777523
+    second: Jungle32_Tilemap_12
+  - first:
+      213: 8351839769686283944
+    second: Jungle32_Tilemap_13
+  - first:
+      213: -8956166660039229103
+    second: Jungle32_Tilemap_14
+  - first:
+      213: -285983394975717402
+    second: Jungle32_Tilemap_15
+  - first:
+      213: 7535954228063031975
+    second: Jungle32_Tilemap_16
+  - first:
+      213: 6302462695877404969
+    second: Jungle32_Tilemap_17
+  - first:
+      213: -3153481673670120059
+    second: Jungle32_Tilemap_18
+  - first:
+      213: 3213249777541801104
+    second: Jungle32_Tilemap_19
+  - first:
+      213: -8551268147024318291
+    second: Jungle32_Tilemap_20
+  - first:
+      213: -7404753109081866830
+    second: Jungle32_Tilemap_21
+  - first:
+      213: 7889592980665373814
+    second: Jungle32_Tilemap_22
+  - first:
+      213: -2612606338672657515
+    second: Jungle32_Tilemap_23
+  - first:
+      213: -8142353780119616225
+    second: Jungle32_Tilemap_24
+  - first:
+      213: -2132664792886115846
+    second: Jungle32_Tilemap_25
+  - first:
+      213: 5675912675274662097
+    second: Jungle32_Tilemap_26
+  - first:
+      213: 6988889495058707357
+    second: Jungle32_Tilemap_27
+  - first:
+      213: 4796379231737333421
+    second: Jungle32_Tilemap_28
+  - first:
+      213: -6378285739087583637
+    second: Jungle32_Tilemap_29
+  - first:
+      213: -8810674249050032948
+    second: Jungle32_Tilemap_30
+  - first:
+      213: 4360605315488159832
+    second: Jungle32_Tilemap_31
+  - first:
+      213: -2494437113831846372
+    second: Jungle32_Tilemap_32
+  - first:
+      213: 5400300407660823981
+    second: Jungle32_Tilemap_33
+  - first:
+      213: 576384093401029195
+    second: Jungle32_Tilemap_34
+  - first:
+      213: 9064102237549671625
+    second: Jungle32_Tilemap_35
+  - first:
+      213: -5819290846929225822
+    second: Jungle32_Tilemap_36
+  - first:
+      213: -385802282775798588
+    second: Jungle32_Tilemap_37
+  - first:
+      213: -2347086441508604400
+    second: Jungle32_Tilemap_38
+  - first:
+      213: 5285970288403928281
+    second: Jungle32_Tilemap_39
+  - first:
+      213: 6618447257177080584
+    second: Jungle32_Tilemap_40
+  - first:
+      213: -117682778524977428
+    second: Jungle32_Tilemap_41
+  - first:
+      213: 2628806944718244415
+    second: Jungle32_Tilemap_42
+  - first:
+      213: -5562291706988602137
+    second: Jungle32_Tilemap_43
+  - first:
+      213: -959884794125047338
+    second: Jungle32_Tilemap_44
+  - first:
+      213: -711605255054174675
+    second: Jungle32_Tilemap_45
+  - first:
+      213: -6433523023358466950
+    second: Jungle32_Tilemap_46
+  - first:
+      213: -1919874405927128560
+    second: Jungle32_Tilemap_47
+  - first:
+      213: -1079724066754133720
+    second: Jungle32_Tilemap_48
+  - first:
+      213: -5421345913744945523
+    second: Jungle32_Tilemap_49
+  - first:
+      213: 4020874361601061430
+    second: Jungle32_Tilemap_50
+  - first:
+      213: -8160105266390032215
+    second: Jungle32_Tilemap_51
+  - first:
+      213: 1812975874469115291
+    second: Jungle32_Tilemap_52
+  - first:
+      213: -7792470149594112504
+    second: Jungle32_Tilemap_53
+  - first:
+      213: -853448210292739763
+    second: Jungle32_Tilemap_54
+  - first:
+      213: 5684300308068428019
+    second: Jungle32_Tilemap_55
+  - first:
+      213: 3677419743178794444
+    second: Jungle32_Tilemap_56
+  - first:
+      213: -1361797999452942143
+    second: Jungle32_Tilemap_57
+  - first:
+      213: -639559521870005533
+    second: Jungle32_Tilemap_58
+  - first:
+      213: 4415572674516264403
+    second: Jungle32_Tilemap_59
+  - first:
+      213: -1771810080028675567
+    second: Jungle32_Tilemap_60
+  - first:
+      213: -8804477736948307066
+    second: Jungle32_Tilemap_61
+  - first:
+      213: 5702662164558152067
+    second: Jungle32_Tilemap_62
+  - first:
+      213: 8696935820927956482
+    second: Jungle32_Tilemap_63
+  - first:
+      213: 2692974128933956026
+    second: Jungle32_Tilemap_64
+  - first:
+      213: 134273797688266837
+    second: Jungle32_Tilemap_65
+  - first:
+      213: 1012427081675021534
+    second: Jungle32_Tilemap_66
+  - first:
+      213: -8437895375674850964
+    second: Jungle32_Tilemap_67
+  - first:
+      213: 1520092598248074752
+    second: Jungle32_Tilemap_68
+  - first:
+      213: -4197986796647140410
+    second: Jungle32_Tilemap_69
+  - first:
+      213: 6312137632413562954
+    second: Jungle32_Tilemap_70
+  - first:
+      213: -4420891438224070597
+    second: Jungle32_Tilemap_71
+  - first:
+      213: -5831983728993085515
+    second: Jungle32_Tilemap_72
+  - first:
+      213: -7700383357065477819
+    second: Jungle32_Tilemap_73
+  - first:
+      213: 6475556153272171274
+    second: Jungle32_Tilemap_74
+  - first:
+      213: -8375569741949765763
+    second: Jungle32_Tilemap_75
+  - first:
+      213: 3118434579667988578
+    second: Jungle32_Tilemap_76
+  - first:
+      213: 8452395401093599021
+    second: Jungle32_Tilemap_77
+  - first:
+      213: 2115893873631647705
+    second: Jungle32_Tilemap_78
+  - first:
+      213: -653227030526863115
+    second: Jungle32_Tilemap_79
+  - first:
+      213: -1261496316017821369
+    second: Jungle32_Tilemap_80
+  - first:
+      213: 3148997610713184504
+    second: Jungle32_Tilemap_81
+  - first:
+      213: 5151465817612945074
+    second: Jungle32_Tilemap_82
+  - first:
+      213: 7352476735838920424
+    second: Jungle32_Tilemap_83
+  - first:
+      213: -4731696617647801442
+    second: Jungle32_Tilemap_84
+  - first:
+      213: -8621718841433975276
+    second: Jungle32_Tilemap_85
+  - first:
+      213: -6501767325527296356
+    second: Jungle32_Tilemap_86
+  - first:
+      213: 4284600618584738275
+    second: Jungle32_Tilemap_87
+  - first:
+      213: 607671528729189865
+    second: Jungle32_Tilemap_88
+  - first:
+      213: 6071701619404832694
+    second: Jungle32_Tilemap_89
+  - first:
+      213: 4161509197323867656
+    second: Jungle32_Tilemap_90
+  - first:
+      213: -1274118269362788292
+    second: Jungle32_Tilemap_91
+  - first:
+      213: 5763628420586354176
+    second: Jungle32_Tilemap_92
+  - first:
+      213: -949147804980120573
+    second: Jungle32_Tilemap_93
+  - first:
+      213: -8079501057983522356
+    second: Jungle32_Tilemap_94
+  - first:
+      213: -9096754938357098070
+    second: Jungle32_Tilemap_95
+  - first:
+      213: -2820615800600924206
+    second: Jungle32_Tilemap_96
+  - first:
+      213: 2069898174527238149
+    second: Jungle32_Tilemap_97
+  - first:
+      213: 4882987934303211901
+    second: Jungle32_Tilemap_98
+  - first:
+      213: -6804049619385597692
+    second: Jungle32_Tilemap_99
+  - first:
+      213: 2491094627327691238
+    second: Jungle32_Tilemap_100
+  - first:
+      213: -5642256976255499332
+    second: Jungle32_Tilemap_101
+  - first:
+      213: 4283309121111971284
+    second: Jungle32_Tilemap_102
+  - first:
+      213: 5028499441004530561
+    second: Jungle32_Tilemap_103
+  - first:
+      213: 8382735190738234049
+    second: Jungle32_Tilemap_104
+  - first:
+      213: 5792155131380918090
+    second: Jungle32_Tilemap_105
+  - first:
+      213: 1692973722060665048
+    second: Jungle32_Tilemap_106
+  - first:
+      213: -5057956456865239863
+    second: Jungle32_Tilemap_107
+  - first:
+      213: 8972920507720366307
+    second: Jungle32_Tilemap_108
+  - first:
+      213: -1490681739070837634
+    second: Jungle32_Tilemap_109
+  - first:
+      213: 6435128799923076778
+    second: Jungle32_Tilemap_110
+  - first:
+      213: -5827854398986378202
+    second: Jungle32_Tilemap_111
+  - first:
+      213: 3553990322127736318
+    second: Jungle32_Tilemap_112
+  - first:
+      213: -8478661128268988835
+    second: Jungle32_Tilemap_113
+  - first:
+      213: 787698937898131454
+    second: Jungle32_Tilemap_114
+  - first:
+      213: -6893988975851830815
+    second: Jungle32_Tilemap_115
+  - first:
+      213: 2993437589161919686
+    second: Jungle32_Tilemap_116
+  - first:
+      213: 5682692617433688065
+    second: Jungle32_Tilemap_117
+  - first:
+      213: -9167506168695544223
+    second: Jungle32_Tilemap_118
+  - first:
+      213: 7931561446278968551
+    second: Jungle32_Tilemap_119
+  - first:
+      213: 7686873335211932863
+    second: Jungle32_Tilemap_120
+  - first:
+      213: -1039729805980285394
+    second: Jungle32_Tilemap_121
+  - first:
+      213: -5764479823954270732
+    second: Jungle32_Tilemap_122
+  - first:
+      213: 7095862739074789270
+    second: Jungle32_Tilemap_123
+  - first:
+      213: -2888454900452724023
+    second: Jungle32_Tilemap_124
+  - first:
+      213: -5963178169483656380
+    second: Jungle32_Tilemap_125
+  - first:
+      213: -1438573277013527852
+    second: Jungle32_Tilemap_126
+  - first:
+      213: 6172737659198330330
+    second: Jungle32_Tilemap_127
+  - first:
+      213: -2532959269345755246
+    second: Jungle32_Tilemap_128
+  - first:
+      213: 2245423244240477157
+    second: Jungle32_Tilemap_129
+  - first:
+      213: 4908505857030366873
+    second: Jungle32_Tilemap_130
+  - first:
+      213: -5919689776215409008
+    second: Jungle32_Tilemap_131
+  - first:
+      213: -3902882707415682745
+    second: Jungle32_Tilemap_132
+  - first:
+      213: 4015795029960743537
+    second: Jungle32_Tilemap_133
+  - first:
+      213: 2808195480084454765
+    second: Jungle32_Tilemap_134
+  - first:
+      213: -102398226960857670
+    second: Jungle32_Tilemap_135
+  - first:
+      213: 6989272073656700278
+    second: Jungle32_Tilemap_136
+  - first:
+      213: 7268989751623267807
+    second: Jungle32_Tilemap_137
+  - first:
+      213: 1177359972434432077
+    second: Jungle32_Tilemap_138
+  - first:
+      213: 3993474467241872448
+    second: Jungle32_Tilemap_139
+  - first:
+      213: 6639349322343627689
+    second: Jungle32_Tilemap_140
+  - first:
+      213: 538316768250192334
+    second: Jungle32_Tilemap_141
+  - first:
+      213: -1608536892152770213
+    second: Jungle32_Tilemap_142
+  - first:
+      213: 4156784244302038006
+    second: Jungle32_Tilemap_143
+  - first:
+      213: -4573462736607376039
+    second: Jungle32_Tilemap_144
+  - first:
+      213: 2898029466750721770
+    second: Jungle32_Tilemap_145
+  - first:
+      213: 284707272217516549
+    second: Jungle32_Tilemap_146
+  - first:
+      213: -4385447541144848315
+    second: Jungle32_Tilemap_147
+  - first:
+      213: -1945499342154879246
+    second: Jungle32_Tilemap_148
+  - first:
+      213: -8751371952647727152
+    second: Jungle32_Tilemap_149
+  - first:
+      213: -4280936208587620398
+    second: Jungle32_Tilemap_150
+  - first:
+      213: 3894159495449871605
+    second: Jungle32_Tilemap_151
+  - first:
+      213: 326677079979002448
+    second: Jungle32_Tilemap_152
+  - first:
+      213: 4816033007465051739
+    second: Jungle32_Tilemap_153
+  - first:
+      213: -6921893483496206864
+    second: Jungle32_Tilemap_154
+  - first:
+      213: 2096237232286160561
+    second: Jungle32_Tilemap_155
+  - first:
+      213: -2061581953555664883
+    second: Jungle32_Tilemap_156
+  - first:
+      213: 2132739700209909417
+    second: Jungle32_Tilemap_157
+  - first:
+      213: 5491991697816600106
+    second: Jungle32_Tilemap_158
+  - first:
+      213: -3192984150468171116
+    second: Jungle32_Tilemap_159
+  - first:
+      213: -1027495116344815020
+    second: Jungle32_Tilemap_160
+  - first:
+      213: 5141291879291964994
+    second: Jungle32_Tilemap_161
+  - first:
+      213: 5034185346909322588
+    second: Jungle32_Tilemap_162
+  - first:
+      213: 960758539845043615
+    second: Jungle32_Tilemap_163
+  - first:
+      213: -2598937160182038088
+    second: Jungle32_Tilemap_164
+  - first:
+      213: -794718706872250720
+    second: Jungle32_Tilemap_165
+  - first:
+      213: 2762242782990326707
+    second: Jungle32_Tilemap_0
+  - first:
+      213: -8793482660256250947
+    second: Jungle32_Tilemap_1
+  - first:
+      213: 1717646604519216429
+    second: Jungle32_Tilemap_2
+  - first:
+      213: 3913525544295186180
+    second: Jungle32_Tilemap_3
+  - first:
+      213: -4444707696527034304
+    second: Jungle32_Tilemap_4
+  - first:
+      213: 4180878661604211529
+    second: Jungle32_Tilemap_5
+  - first:
+      213: -184622689095320264
+    second: Jungle32_Tilemap_6
+  - first:
+      213: 7794196214184347381
+    second: Jungle32_Tilemap_7
+  - first:
+      213: 8420738845843062457
+    second: Jungle32_Tilemap_8
+  - first:
+      213: 5288042046169788536
+    second: Jungle32_Tilemap_9
+  - first:
+      213: 6909742179217843095
+    second: Jungle32_Tilemap_10
+  - first:
+      213: -56529836797115751
+    second: Jungle32_Tilemap_11
+  - first:
+      213: -6682545705932767030
+    second: Jungle32_Tilemap_12
+  - first:
+      213: 8356162676560331744
+    second: Jungle32_Tilemap_13
+  - first:
+      213: -728639460632094833
+    second: Jungle32_Tilemap_14
+  - first:
+      213: 2406623976200759098
+    second: Jungle32_Tilemap_15
+  - first:
+      213: -3123524579484860681
+    second: Jungle32_Tilemap_16
+  - first:
+      213: 4263344450192499085
+    second: Jungle32_Tilemap_17
+  - first:
+      213: -1380845974517740656
+    second: Jungle32_Tilemap_18
+  - first:
+      213: 6719842714359848741
+    second: Jungle32_Tilemap_19
+  - first:
+      213: 119303322930832064
+    second: Jungle32_Tilemap_20
+  - first:
+      213: 6880572407292217890
+    second: Jungle32_Tilemap_21
+  - first:
+      213: 4508237621925587230
+    second: Jungle32_Tilemap_22
+  - first:
+      213: -5202818727047187355
+    second: Jungle32_Tilemap_23
+  - first:
+      213: -2283426325189218170
+    second: Jungle32_Tilemap_24
+  - first:
+      213: 3314937797634872944
+    second: Jungle32_Tilemap_25
+  - first:
+      213: 1929584132174308040
+    second: Jungle32_Tilemap_26
+  - first:
+      213: -946549323497716899
+    second: Jungle32_Tilemap_27
+  - first:
+      213: -2367395799594200368
+    second: Jungle32_Tilemap_28
+  - first:
+      213: 2689646010505180706
+    second: Jungle32_Tilemap_29
+  - first:
+      213: -3132760353692372453
+    second: Jungle32_Tilemap_30
+  - first:
+      213: 38394258048787609
+    second: Jungle32_Tilemap_31
+  - first:
+      213: 2313557366084664592
+    second: Jungle32_Tilemap_32
+  - first:
+      213: -3653637463803606541
+    second: Jungle32_Tilemap_33
+  - first:
+      213: -42508538158751152
+    second: Jungle32_Tilemap_34
+  - first:
+      213: 7299793314563594079
+    second: Jungle32_Tilemap_35
+  - first:
+      213: 3234839355929255770
+    second: Jungle32_Tilemap_36
+  - first:
+      213: 8188727420785456704
+    second: Jungle32_Tilemap_37
+  - first:
+      213: 1314093896279397604
+    second: Jungle32_Tilemap_38
+  - first:
+      213: -7485213702728088018
+    second: Jungle32_Tilemap_39
+  - first:
+      213: 7657712269574401076
+    second: Jungle32_Tilemap_40
+  - first:
+      213: 4353148816436912697
+    second: Jungle32_Tilemap_41
+  - first:
+      213: 9071897419622244638
+    second: Jungle32_Tilemap_42
+  - first:
+      213: 7219839047832958394
+    second: Jungle32_Tilemap_43
+  - first:
+      213: 7316804181571728403
+    second: Jungle32_Tilemap_44
+  - first:
+      213: 7687131519976744249
+    second: Jungle32_Tilemap_45
+  - first:
+      213: 8111285946983428823
+    second: Jungle32_Tilemap_46
+  - first:
+      213: 4291158299816483767
+    second: Jungle32_Tilemap_47
+  - first:
+      213: -5022271963726618589
+    second: Jungle32_Tilemap_48
+  - first:
+      213: -6569105598755763336
+    second: Jungle32_Tilemap_49
+  - first:
+      213: -9126574156718886891
+    second: Jungle32_Tilemap_50
+  - first:
+      213: 889198503117698351
+    second: Jungle32_Tilemap_51
+  - first:
+      213: -7593038338048040219
+    second: Jungle32_Tilemap_52
+  - first:
+      213: -4577453585840122267
+    second: Jungle32_Tilemap_53
+  - first:
+      213: 2442568073181375985
+    second: Jungle32_Tilemap_54
+  - first:
+      213: -7977038241055479259
+    second: Jungle32_Tilemap_55
+  - first:
+      213: -3855019857033855458
+    second: Jungle32_Tilemap_56
+  - first:
+      213: 893968446216266500
+    second: Jungle32_Tilemap_57
+  - first:
+      213: -7412552756731155687
+    second: Jungle32_Tilemap_58
+  - first:
+      213: -1305776975873861655
+    second: Jungle32_Tilemap_59
+  - first:
+      213: -4144618322663578258
+    second: Jungle32_Tilemap_60
+  - first:
+      213: 1496523015289981728
+    second: Jungle32_Tilemap_61
+  - first:
+      213: -6175455863419798802
+    second: Jungle32_Tilemap_62
+  - first:
+      213: -7654632671457900994
+    second: Jungle32_Tilemap_63
+  - first:
+      213: 5295060238540761476
+    second: Jungle32_Tilemap_64
+  - first:
+      213: -3412319327287810028
+    second: Jungle32_Tilemap_65
+  - first:
+      213: 8097169685216852021
+    second: Jungle32_Tilemap_66
+  - first:
+      213: 3930731637813441788
+    second: Jungle32_Tilemap_67
+  - first:
+      213: -7377196783281299903
+    second: Jungle32_Tilemap_68
+  - first:
+      213: 8349508652196659452
+    second: Jungle32_Tilemap_69
+  - first:
+      213: -3911215598968854487
+    second: Jungle32_Tilemap_70
+  - first:
+      213: 3731483517324371174
+    second: Jungle32_Tilemap_71
+  - first:
+      213: 9180008700276646859
+    second: Jungle32_Tilemap_72
+  - first:
+      213: -7028334839952305414
+    second: Jungle32_Tilemap_73
+  - first:
+      213: 385095871422402824
+    second: Jungle32_Tilemap_74
+  - first:
+      213: -6102460841680871566
+    second: Jungle32_Tilemap_75
+  - first:
+      213: -6364289667820812898
+    second: Jungle32_Tilemap_76
+  - first:
+      213: 7259426191320219843
+    second: Jungle32_Tilemap_77
+  - first:
+      213: -4428558724130126493
+    second: Jungle32_Tilemap_78
+  - first:
+      213: 7950698666601279713
+    second: Jungle32_Tilemap_79
+  - first:
+      213: -1750446222747014866
+    second: Jungle32_Tilemap_80
+  - first:
+      213: -2601340136630005401
+    second: Jungle32_Tilemap_81
+  - first:
+      213: 7851614765634678526
+    second: Jungle32_Tilemap_82
+  - first:
+      213: -5612754327106546554
+    second: Jungle32_Tilemap_83
+  - first:
+      213: -676093580425538639
+    second: Jungle32_Tilemap_84
+  - first:
+      213: 1107593767043616576
+    second: Jungle32_Tilemap_85
+  - first:
+      213: -3622060163389338277
+    second: Jungle32_Tilemap_86
+  - first:
+      213: -8757599926203893542
+    second: Jungle32_Tilemap_87
+  - first:
+      213: -9197435506081531145
+    second: Jungle32_Tilemap_88
+  - first:
+      213: -8802873057518067004
+    second: Jungle32_Tilemap_89
+  - first:
+      213: 8044933889123065031
+    second: Jungle32_Tilemap_90
+  - first:
+      213: -4024720995571252295
+    second: Jungle32_Tilemap_91
+  - first:
+      213: 5510944783150194170
+    second: Jungle32_Tilemap_92
+  - first:
+      213: 8332287395833492659
+    second: Jungle32_Tilemap_93
+  - first:
+      213: 2843813159079243531
+    second: Jungle32_Tilemap_94
+  - first:
+      213: 989049405544630988
+    second: Jungle32_Tilemap_95
+  - first:
+      213: 8862674414415204001
+    second: Jungle32_Tilemap_96
+  - first:
+      213: 1980466453983182066
+    second: Jungle32_Tilemap_97
+  - first:
+      213: 4465908981321911137
+    second: Jungle32_Tilemap_98
+  - first:
+      213: -2547658374242897070
+    second: Jungle32_Tilemap_99
+  - first:
+      213: 4929158379692860359
+    second: Jungle32_Tilemap_100
+  - first:
+      213: 4885493844380478490
+    second: Jungle32_Tilemap_101
+  - first:
+      213: 9084169012292767143
+    second: Jungle32_Tilemap_102
+  - first:
+      213: 4134716866405744692
+    second: Jungle32_Tilemap_103
+  - first:
+      213: -3354059358223948035
+    second: Jungle32_Tilemap_104
+  - first:
+      213: 887690779361266940
+    second: Jungle32_Tilemap_105
+  - first:
+      213: -7549503144746100421
+    second: Jungle32_Tilemap_106
+  - first:
+      213: 7639030060437391760
+    second: Jungle32_Tilemap_107
+  - first:
+      213: 7285079602493199393
+    second: Jungle32_Tilemap_108
+  - first:
+      213: 5935013271655641586
+    second: Jungle32_Tilemap_109
+  - first:
+      213: 4480212528701635669
+    second: Jungle32_Tilemap_110
+  - first:
+      213: 8431098316174945193
+    second: Jungle32_Tilemap_111
+  - first:
+      213: -148431625998601694
+    second: Jungle32_Tilemap_112
+  - first:
+      213: -5459883509430005831
+    second: Jungle32_Tilemap_113
+  - first:
+      213: 1566713453402623438
+    second: Jungle32_Tilemap_114
+  - first:
+      213: 7205533082945901289
+    second: Jungle32_Tilemap_115
+  - first:
+      213: -366963430549465129
+    second: Jungle32_Tilemap_116
+  - first:
+      213: 8105933364383072754
+    second: Jungle32_Tilemap_117
+  - first:
+      213: 8619023330366254112
+    second: Jungle32_Tilemap_118
+  - first:
+      213: -1441120993520028406
+    second: Jungle32_Tilemap_119
+  - first:
+      213: 8280767345359361587
+    second: Jungle32_Tilemap_120
+  - first:
+      213: 4192477561587272143
+    second: Jungle32_Tilemap_121
+  - first:
+      213: -7214747432018406262
+    second: Jungle32_Tilemap_122
+  - first:
+      213: 4294362948186668168
+    second: Jungle32_Tilemap_123
+  - first:
+      213: 5481374724851244897
+    second: Jungle32_Tilemap_124
+  - first:
+      213: -3639455010514426160
+    second: Jungle32_Tilemap_125
+  - first:
+      213: -1938672254222226477
+    second: Jungle32_Tilemap_126
+  - first:
+      213: -2963442752991705753
+    second: Jungle32_Tilemap_127
+  - first:
+      213: 110627505774690993
+    second: Jungle32_Tilemap_128
+  - first:
+      213: 3437769663063353181
+    second: Jungle32_Tilemap_129
+  - first:
+      213: 6378648342059141905
+    second: Jungle32_Tilemap_130
+  - first:
+      213: 111172132204398188
+    second: Jungle32_Tilemap_131
+  - first:
+      213: 4643058754849853696
+    second: Jungle32_Tilemap_132
+  - first:
+      213: -7266019743681570562
+    second: Jungle32_Tilemap_133
+  - first:
+      213: 1804263944119055988
+    second: Jungle32_Tilemap_134
+  - first:
+      213: 2316930035913043803
+    second: Jungle32_Tilemap_135
+  - first:
+      213: -4181539292368077626
+    second: Jungle32_Tilemap_136
+  - first:
+      213: -7148612619559007458
+    second: Jungle32_Tilemap_137
+  - first:
+      213: -5222441171133528155
+    second: Jungle32_Tilemap_138
+  - first:
+      213: 8437537989307273216
+    second: Jungle32_Tilemap_139
+  - first:
+      213: -7131554161069561103
+    second: Jungle32_Tilemap_140
+  - first:
+      213: 5095662052472123691
+    second: Jungle32_Tilemap_141
+  - first:
+      213: -7015417367056530407
+    second: Jungle32_Tilemap_142
+  - first:
+      213: -2535988250807872824
+    second: Jungle32_Tilemap_143
+  - first:
+      213: -9210291980117988457
+    second: Jungle32_Tilemap_144
+  - first:
+      213: 6839449210234007507
+    second: Jungle32_Tilemap_145
+  - first:
+      213: -5387212105468200768
+    second: Jungle32_Tilemap_146
+  - first:
+      213: -1333791010180078239
+    second: Jungle32_Tilemap_147
+  - first:
+      213: -873985322157339190
+    second: Jungle32_Tilemap_148
+  - first:
+      213: -7193522347156001210
+    second: Jungle32_Tilemap_149
+  - first:
+      213: 6039355214016837850
+    second: Jungle32_Tilemap_150
+  - first:
+      213: 2113698821915443614
+    second: Jungle32_Tilemap_151
+  - first:
+      213: 5617589527958908137
+    second: Jungle32_Tilemap_152
+  - first:
+      213: 7489406804678268626
+    second: Jungle32_Tilemap_153
+  - first:
+      213: -5589044313650253861
+    second: Jungle32_Tilemap_154
+  - first:
+      213: 740932141078554733
+    second: Jungle32_Tilemap_155
+  - first:
+      213: 6246795587550562360
+    second: Jungle32_Tilemap_156
+  - first:
+      213: -3956046051580343947
+    second: Jungle32_Tilemap_157
+  - first:
+      213: -708354455881071771
+    second: Jungle32_Tilemap_158
+  - first:
+      213: 2345538153716407827
+    second: Jungle32_Tilemap_159
+  - first:
+      213: 667045765783906075
+    second: Jungle32_Tilemap_160
+  - first:
+      213: -5239101675286139000
+    second: Jungle32_Tilemap_161
+  - first:
+      213: -6986294707018847328
+    second: Jungle32_Tilemap_162
+  - first:
+      213: -4472566641424613516
+    second: Jungle32_Tilemap_163
+  - first:
+      213: 4806137431281332882
+    second: Jungle32_Tilemap_164
+  - first:
+      213: -3702083605762334144
+    second: Jungle32_Tilemap_165
+  - first:
+      213: 5372182909070118013
+    second: Jungle32_Tilemap_166
+  - first:
+      213: 3092323350634020509
+    second: Jungle32_Tilemap_167
+  - first:
+      213: -7473927851401248295
+    second: Jungle32_Tilemap_168
+  - first:
+      213: 2139265398264210077
+    second: Jungle32_Tilemap_169
+  - first:
+      213: 2144148019480441964
+    second: Jungle32_Tilemap_170
+  - first:
+      213: -4727699375212767938
+    second: Jungle32_Tilemap_171
+  - first:
+      213: 8821400183794245426
+    second: Jungle32_Tilemap_172
+  - first:
+      213: 1566506444807629969
+    second: Jungle32_Tilemap_173
+  - first:
+      213: -5371252231318941639
+    second: Jungle32_Tilemap_174
+  - first:
+      213: 6385503109121871914
+    second: Jungle32_Tilemap_175
+  - first:
+      213: -4133997121408907370
+    second: Jungle32_Tilemap_176
+  - first:
+      213: 2147817181948715217
+    second: Jungle32_Tilemap_177
+  - first:
+      213: -5944664935410405853
+    second: Jungle32_Tilemap_178
+  - first:
+      213: 7651766671143082787
+    second: Jungle32_Tilemap_179
+  - first:
+      213: -1767773302147081597
+    second: Jungle32_Tilemap_180
+  - first:
+      213: -6953578340504533730
+    second: Jungle32_Tilemap_181
+  - first:
+      213: 1606695879348493203
+    second: Jungle32_Tilemap_182
+  - first:
+      213: 1497222668621318126
+    second: Jungle32_Tilemap_183
+  - first:
+      213: 3685489409738398036
+    second: Jungle32_Tilemap_184
+  - first:
+      213: -6246430230899356930
+    second: Jungle32_Tilemap_185
+  - first:
+      213: 5873826312922769984
+    second: Jungle32_Tilemap_186
+  - first:
+      213: 2652155099912719820
+    second: Jungle32_Tilemap_187
+  - first:
+      213: 2833738256103594532
+    second: Jungle32_Tilemap_188
+  - first:
+      213: -8975550502726461869
+    second: Jungle32_Tilemap_189
+  - first:
+      213: 4600861697870133987
+    second: Jungle32_Tilemap_190
+  - first:
+      213: -1909705355348862647
+    second: Jungle32_Tilemap_191
+  - first:
+      213: 8680768081548866053
+    second: Jungle32_Tilemap_192
+  - first:
+      213: -2418662068656800026
+    second: Jungle32_Tilemap_193
+  - first:
+      213: 8911650590422546683
+    second: Jungle32_Tilemap_194
+  - first:
+      213: 4926354442426342038
+    second: Jungle32_Tilemap_195
+  - first:
+      213: 7603429585320552692
+    second: Jungle32_Tilemap_196
+  - first:
+      213: 2712689590257305965
+    second: Jungle32_Tilemap_197
+  - first:
+      213: -1224339698277448888
+    second: Jungle32_Tilemap_166
+  - first:
+      213: 1647072621607682964
+    second: Jungle32_Tilemap_167
+  - first:
+      213: 7968360743783297238
+    second: Jungle32_Tilemap_168
+  - first:
+      213: 5785463731189409763
+    second: Jungle32_Tilemap_169
+  - first:
+      213: -8052618009754498631
+    second: Jungle32_Tilemap_170
+  - first:
+      213: 9152008359345507822
+    second: Jungle32_Tilemap_171
+  - first:
+      213: 1171286687497070852
+    second: Jungle32_Tilemap_172
+  - first:
+      213: -5241016288154180650
+    second: Jungle32_Tilemap_173
+  - first:
+      213: 339985114854694736
+    second: Jungle32_Tilemap_174
+  - first:
+      213: -6587592753946836151
+    second: Jungle32_Tilemap_175
+  - first:
+      213: -1015368838250668199
+    second: Jungle32_Tilemap_176
+  - first:
+      213: 3581755852638828956
+    second: Jungle32_Tilemap_177
+  - first:
+      213: 3371312626875513177
+    second: Jungle32_Tilemap_178
+  - first:
+      213: -1382081864638159577
+    second: Jungle32_Tilemap_179
+  - first:
+      213: 317183483329307615
+    second: Jungle32_Tilemap_180
+  - first:
+      213: 7891804818993733014
+    second: Jungle32_Tilemap_181
+  - first:
+      213: 3064384303052783790
+    second: Jungle32_Tilemap_182
+  - first:
+      213: 7391375123205115957
+    second: Jungle32_Tilemap_183
+  - first:
+      213: 6232537799089945057
+    second: Jungle32_Tilemap_184
+  - first:
+      213: 3360881974674491751
+    second: Jungle32_Tilemap_185
+  - first:
+      213: -9094373219147642788
+    second: Jungle32_Tilemap_186
+  - first:
+      213: -8643187146292526649
+    second: Jungle32_Tilemap_187
+  - first:
+      213: 4519941968475556543
+    second: Jungle32_Tilemap_188
+  - first:
+      213: -2578258833456067086
+    second: Jungle32_Tilemap_189
+  - first:
+      213: 450030533164285444
+    second: Jungle32_Tilemap_190
+  - first:
+      213: 1693422535463623581
+    second: Jungle32_Tilemap_191
+  - first:
+      213: -353562555850006231
+    second: Jungle32_Tilemap_192
+  - first:
+      213: -1972932587809540192
+    second: Jungle32_Tilemap_193
+  - first:
+      213: -5868980124877768500
+    second: Jungle32_Tilemap_194
+  - first:
+      213: -1973486692557274617
+    second: Jungle32_Tilemap_195
+  - first:
+      213: -5655140688121055902
+    second: Jungle32_Tilemap_196
+  - first:
+      213: 5658062184600758942
+    second: Jungle32_Tilemap_197
+  - first:
+      213: 8206579368831761517
+    second: Jungle32_Tilemap_198
+  - first:
+      213: -7920139465638687883
+    second: Jungle32_Tilemap_199
+  - first:
+      213: 1603956699531489143
+    second: Jungle32_Tilemap_200
+  - first:
+      213: -6080678887895050861
+    second: Jungle32_Tilemap_201
+  - first:
+      213: -1573603481263383910
+    second: Jungle32_Tilemap_202
+  - first:
+      213: -7916578078364103187
+    second: Jungle32_Tilemap_203
+  - first:
+      213: 6104005461979528034
+    second: Jungle32_Tilemap_204
+  - first:
+      213: -3047618609492151872
+    second: Jungle32_Tilemap_205
+  - first:
+      213: 2482523449945413329
+    second: Jungle32_Tilemap_206
+  - first:
+      213: -531921186709466479
+    second: Jungle32_Tilemap_207
+  - first:
+      213: 1957526929452891378
+    second: Jungle32_Tilemap_208
+  - first:
+      213: 6188971221498608521
+    second: Jungle32_Tilemap_209
+  - first:
+      213: 416602614632140643
+    second: Jungle32_Tilemap_210
+  - first:
+      213: 4040775493478200872
+    second: Jungle32_Tilemap_211
+  - first:
+      213: -3681847984582150320
+    second: Jungle32_Tilemap_212
+  - first:
+      213: -2833614524772719215
+    second: Jungle32_Tilemap_213
+  - first:
+      213: -123973549533025785
+    second: Jungle32_Tilemap_214
+  - first:
+      213: -4480995084890433992
+    second: Jungle32_Tilemap_215
+  - first:
+      213: -3655660509420354860
+    second: Jungle32_Tilemap_216
+  - first:
+      213: -737065681173666178
+    second: Jungle32_Tilemap_217
+  - first:
+      213: 6880049333675045596
+    second: Jungle32_Tilemap_218
+  - first:
+      213: 6743696255242550907
+    second: Jungle32_Tilemap_219
+  - first:
+      213: -73328686695958755
+    second: Jungle32_Tilemap_220
+  - first:
+      213: -970757990585962395
+    second: Jungle32_Tilemap_221
+  - first:
+      213: 4843342315541309815
+    second: Jungle32_Tilemap_222
+  - first:
+      213: -3218944974735795960
+    second: Jungle32_Tilemap_223
+  - first:
+      213: -5495620394415609416
+    second: Jungle32_Tilemap_224
+  - first:
+      213: 4479348329724294715
+    second: Jungle32_Tilemap_225
+  - first:
+      213: 3221033497415737326
+    second: Jungle32_Tilemap_226
+  - first:
+      213: 4130928626149898948
+    second: Jungle32_Tilemap_227
+  - first:
+      213: -3254325637179500065
+    second: Jungle32_Tilemap_228
+  - first:
+      213: -9214506488521761990
+    second: Jungle32_Tilemap_229
+  - first:
+      213: -4117700694464057110
+    second: Jungle32_Tilemap_230
+  - first:
+      213: -7112571884099873334
+    second: Jungle32_Tilemap_231
+  - first:
+      213: 4661710798140680062
+    second: Jungle32_Tilemap_232
+  - first:
+      213: 7424894613681382772
+    second: Jungle32_Tilemap_233
+  - first:
+      213: 8181752357539883893
+    second: Jungle32_Tilemap_234
+  - first:
+      213: -3274752209508111856
+    second: Jungle32_Tilemap_235
+  - first:
+      213: -7357868130472091119
+    second: Jungle32_Tilemap_236
+  - first:
+      213: -2094371749271277150
+    second: Jungle32_Tilemap_237
+  - first:
+      213: -3914634853764036605
+    second: Jungle32_Tilemap_238
+  - first:
+      213: 6384938897989553324
+    second: Jungle32_Tilemap_239
+  - first:
+      213: 882317324211755412
+    second: Jungle32_Tilemap_240
+  - first:
+      213: -1943409573313994989
+    second: Jungle32_Tilemap_241
+  - first:
+      213: 4053127005608982752
+    second: Jungle32_Tilemap_242
+  - first:
+      213: -3536626284553069780
+    second: Jungle32_Tilemap_243
+  - first:
+      213: -1569676409487823537
+    second: Jungle32_Tilemap_244
+  - first:
+      213: -6405935429338609293
+    second: Jungle32_Tilemap_245
+  - first:
+      213: 8456314811052164724
+    second: Jungle32_Tilemap_246
+  - first:
+      213: -975879224630525033
+    second: Jungle32_Tilemap_247
+  - first:
+      213: -7574882549694361027
+    second: Jungle32_Tilemap_248
+  - first:
+      213: -2522250700174720198
+    second: Jungle32_Tilemap_249
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb56871d25755620800000000000000
+      internalID: 2762242782990326707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db38ed04c1647f580800000000000000
+      internalID: -8793482660256250947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2516008c7e46d710800000000000000
+      internalID: 1717646604519216429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fb12f6fb2af4630800000000000000
+      internalID: 3913525544295186180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048bf0a26e93152c0800000000000000
+      internalID: -4444707696527034304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bfde1ddf6750a30800000000000000
+      internalID: 4180878661604211529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dfef674a6107df0800000000000000
+      internalID: -184622689095320264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f60720592c8a2c60800000000000000
+      internalID: 7794196214184347381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9befec48d597cd470800000000000000
+      internalID: 8420738845843062457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870b7474936e26940800000000000000
+      internalID: 5288042046169788536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79320d117e554ef50800000000000000
+      internalID: 6909742179217843095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9924f76b96a273ff0800000000000000
+      internalID: -56529836797115751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0c09a0614d243a0800000000000000
+      internalID: -6682545705932767030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e381c57ead07f370800000000000000
+      internalID: 8356162676560331744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8711b3654a53e5f0800000000000000
+      internalID: -728639460632094833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37626961cb066120800000000000000
+      internalID: 2406623976200759098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe7a90b1f207a4d0800000000000000
+      internalID: -3123524579484860681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d816bd470317a2b30800000000000000
+      internalID: 4263344450192499085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b8757f6ef36dce0800000000000000
+      internalID: -1380845974517740656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f5aef685da14d50800000000000000
+      internalID: 6719842714359848741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2e0d77db9d7a100800000000000000
+      internalID: 119303322930832064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ac10c4624bc7f50800000000000000
+      internalID: 6880572407292217890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e192de14b3a709e30800000000000000
+      internalID: 4508237621925587230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5643a97feefdbc7b0800000000000000
+      internalID: -5202818727047187355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6803258fad3af40e0800000000000000
+      internalID: -2283426325189218170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076da881d56010e20800000000000000
+      internalID: 3314937797634872944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2ea7a7b8247ca10800000000000000
+      internalID: 1929584132174308040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d534882c76e2dd2f0800000000000000
+      internalID: -946549323497716899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d29f623012552fd0800000000000000
+      internalID: -2367395799594200368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22635b3dbca835520800000000000000
+      internalID: 2689646010505180706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b123dbf6e033684d0800000000000000
+      internalID: -3132760353692372453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994a960df57688000800000000000000
+      internalID: 38394258048787609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01df6fcaa286b1020800000000000000
+      internalID: 2313557366084664592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f94def951cab4dc0800000000000000
+      internalID: -3653637463803606541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0526023b5baf86ff0800000000000000
+      internalID: -42508538158751152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f579558f7531e4560800000000000000
+      internalID: 7299793314563594079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fdd9b514574ec20800000000000000
+      internalID: 3234839355929255770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046fa66143434a170800000000000000
+      internalID: 8188727420785456704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e41e31bf699c3210800000000000000
+      internalID: 1314093896279397604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e268105bbcd2f1890800000000000000
+      internalID: -7485213702728088018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ce124acb8a54a60800000000000000
+      internalID: 7657712269574401076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932622ad8cd796c30800000000000000
+      internalID: 4353148816436912697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11ed5f53aad5ed70800000000000000
+      internalID: 9071897419622244638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5f3959c55023460800000000000000
+      internalID: 7219839047832958394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314fca513a28a8560800000000000000
+      internalID: 7316804181571728403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9352ce5a36d2eaa60800000000000000
+      internalID: 7687131519976744249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b095e793119070800000000000000
+      internalID: 8111285946983428823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbd787fcb14d8b30800000000000000
+      internalID: 4291158299816483767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320eba4124e4d4ab0800000000000000
+      internalID: -5022271963726618589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b02263349d5d4a0800000000000000
+      internalID: -6569105598755763336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510b28cb825e75180800000000000000
+      internalID: -9126574156718886891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25b321d351175c00800000000000000
+      internalID: 889198503117698351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e269b67cdb10a690800000000000000
+      internalID: -7593038338048040219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5665920573e9970c0800000000000000
+      internalID: -4577453585840122267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdafa5a8beb5e120800000000000000
+      internalID: 2442568073181375985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a6e22ebfddb4190800000000000000
+      internalID: -7977038241055479259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e7b636dd7308ac0800000000000000
+      internalID: -3855019857033855458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403e02db093086c00800000000000000
+      internalID: 893968446216266500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b62388a82512990800000000000000
+      internalID: -7412552756731155687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7972d32c2f0ede0800000000000000
+      internalID: -1305776975873861655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65ef0c389b5b76c0800000000000000
+      internalID: -4144618322663578258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b4e84e0c7b4c410800000000000000
+      internalID: 1496523015289981728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea72c67c9f5c4aa0800000000000000
+      internalID: -6175455863419798802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3607ab242845c590800000000000000
+      internalID: -7654632671457900994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48964868b35db7940800000000000000
+      internalID: 5295060238540761476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4186fcca6a105a0d0800000000000000
+      internalID: -3412319327287810028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53879659decee5070800000000000000
+      internalID: 8097169685216852021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf472434993cc8630800000000000000
+      internalID: 3930731637813441788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e1d569c9eee9990800000000000000
+      internalID: -7377196783281299903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf08b3fa1e96fd370800000000000000
+      internalID: 8349508652196659452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928ae7f922298b9c0800000000000000
+      internalID: -3911215598968854487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4285f1d74e8c330800000000000000
+      internalID: 3731483517324371174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc32cfe6641f56f70800000000000000
+      internalID: 9180008700276646859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2142663b6567e90800000000000000
+      internalID: -7028334839952305414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8011a9c97a2285500800000000000000
+      internalID: 385095871422402824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f51eb5234bf4ba0800000000000000
+      internalID: -6102460841680871566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e950add34408da7a0800000000000000
+      internalID: -6364289667820812898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c00fcea8a9aeb460800000000000000
+      internalID: 7259426191320219843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365444dcd499a82c0800000000000000
+      internalID: -4428558724130126493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0f0fa005e865e60800000000000000
+      internalID: 7950698666601279713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e296db64f6a25b7e0800000000000000
+      internalID: -1750446222747014866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761d330adee26ebd0800000000000000
+      internalID: -2601340136630005401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeedda970a86fc60800000000000000
+      internalID: 7851614765634678526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68417495dad7b12b0800000000000000
+      internalID: -5612754327106546554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b350df78780e96f0800000000000000
+      internalID: -676093580425538639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f4210b9a6fe5f00800000000000000
+      internalID: 1107593767043616576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dc51ec87bdbbdc0800000000000000
+      internalID: -3622060163389338277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad831a15441c67680800000000000000
+      internalID: -8757599926203893542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faf17723252c5080800000000000000
+      internalID: -9197435506081531145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c267c30899e5d580800000000000000
+      internalID: -8802873057518067004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc9eae8fb855af60800000000000000
+      internalID: 8044933889123065031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b34be214915528c0800000000000000
+      internalID: -4024720995571252295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd9570051fca7c40800000000000000
+      internalID: 5510944783150194170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4be1b7d3b32a370800000000000000
+      internalID: 8332287395833492659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fef724001477720800000000000000
+      internalID: 2843813159079243531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9d17a8495d1c180800000000000000
+      internalID: -9096754938357098070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfe355afd82bd8d0800000000000000
+      internalID: -2820615800600924206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500fce54c61c9bc10800000000000000
+      internalID: 2069898174527238149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7159a2b7abd3c340800000000000000
+      internalID: 4882987934303211901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401c36aabe82391a0800000000000000
+      internalID: -6804049619385597692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e940cb7d55229220800000000000000
+      internalID: 2491094627327691238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb342de8c2da2b1b0800000000000000
+      internalID: -5642256976255499332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5d113a3fe517b30800000000000000
+      internalID: 4283309121111971284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b43567991d8c540800000000000000
+      internalID: 5028499441004530561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca6e1a0e35755470800000000000000
+      internalID: 8382735190738234049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a476ae1676ed16050800000000000000
+      internalID: 5792155131380918090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d03f7561a6ae7710800000000000000
+      internalID: 1692973722060665048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc672396678ec9b0800000000000000
+      internalID: -5057956456865239863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e87d7449a7368c70800000000000000
+      internalID: 8972920507720366307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c65853bd8005be0800000000000000
+      internalID: -1490681739070837634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaefc4b7c8b2e4950800000000000000
+      internalID: 6435128799923076778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62428b92d4d4f1fa0800000000000000
+      internalID: -5827854398986378202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd899d3e5f425130800000000000000
+      internalID: 3553990322127736318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e3d9e20aeb55a80800000000000000
+      internalID: -8478661128268988835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effde57b2087eea00800000000000000
+      internalID: 787698937898131454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e184e86d81a350a0800000000000000
+      internalID: -6893988975851830815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle32_Tilemap_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c44c4f90a3da8920800000000000000
+      internalID: 2993437589161919686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

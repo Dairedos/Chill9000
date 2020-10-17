@@ -1,0 +1,6208 @@
+fileFormatVersion: 2
+guid: 41a4c53d6f3325c4da1fc5694992694f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4332649712904320950
+    second: Tomb32_Tilemap_0
+  - first:
+      213: 1006716080918764121
+    second: Tomb32_Tilemap_1
+  - first:
+      213: 2010749436083005607
+    second: Tomb32_Tilemap_2
+  - first:
+      213: 7041619852879484312
+    second: Tomb32_Tilemap_3
+  - first:
+      213: 6987530975507002194
+    second: Tomb32_Tilemap_4
+  - first:
+      213: 3644039342385315782
+    second: Tomb32_Tilemap_5
+  - first:
+      213: 6045181965446283734
+    second: Tomb32_Tilemap_6
+  - first:
+      213: -9190591146448573000
+    second: Tomb32_Tilemap_7
+  - first:
+      213: -877446084858097228
+    second: Tomb32_Tilemap_8
+  - first:
+      213: 7234857545792923389
+    second: Tomb32_Tilemap_9
+  - first:
+      213: -5837500238677232756
+    second: Tomb32_Tilemap_10
+  - first:
+      213: -5386331830103888187
+    second: Tomb32_Tilemap_11
+  - first:
+      213: 4012179732016997184
+    second: Tomb32_Tilemap_12
+  - first:
+      213: 730286864690848414
+    second: Tomb32_Tilemap_13
+  - first:
+      213: 1729265966995961004
+    second: Tomb32_Tilemap_14
+  - first:
+      213: 8478297899080029780
+    second: Tomb32_Tilemap_15
+  - first:
+      213: 5403852556926656018
+    second: Tomb32_Tilemap_16
+  - first:
+      213: 4335803593875760468
+    second: Tomb32_Tilemap_17
+  - first:
+      213: 7747789752718554245
+    second: Tomb32_Tilemap_18
+  - first:
+      213: -4139350541295025853
+    second: Tomb32_Tilemap_19
+  - first:
+      213: 7123953858982612333
+    second: Tomb32_Tilemap_20
+  - first:
+      213: -4222320842398640629
+    second: Tomb32_Tilemap_21
+  - first:
+      213: 1204617236145615630
+    second: Tomb32_Tilemap_22
+  - first:
+      213: -510302533944673266
+    second: Tomb32_Tilemap_23
+  - first:
+      213: -8219722167873332470
+    second: Tomb32_Tilemap_24
+  - first:
+      213: 2738385372550000143
+    second: Tomb32_Tilemap_25
+  - first:
+      213: 1229987226975043497
+    second: Tomb32_Tilemap_26
+  - first:
+      213: -6021852555530362370
+    second: Tomb32_Tilemap_27
+  - first:
+      213: 2682646313279196374
+    second: Tomb32_Tilemap_28
+  - first:
+      213: 5367065938990586699
+    second: Tomb32_Tilemap_29
+  - first:
+      213: 7836827982539456839
+    second: Tomb32_Tilemap_30
+  - first:
+      213: -1921307076066113628
+    second: Tomb32_Tilemap_31
+  - first:
+      213: 6419135170890373874
+    second: Tomb32_Tilemap_32
+  - first:
+      213: -7355655538930081461
+    second: Tomb32_Tilemap_33
+  - first:
+      213: 1616716779555346526
+    second: Tomb32_Tilemap_34
+  - first:
+      213: -4166286956605379701
+    second: Tomb32_Tilemap_35
+  - first:
+      213: 7030118783612923753
+    second: Tomb32_Tilemap_36
+  - first:
+      213: 4245548444937859810
+    second: Tomb32_Tilemap_37
+  - first:
+      213: -469837669972127520
+    second: Tomb32_Tilemap_38
+  - first:
+      213: -8006356230986762618
+    second: Tomb32_Tilemap_39
+  - first:
+      213: 8504222700157334658
+    second: Tomb32_Tilemap_40
+  - first:
+      213: 1643049187070487034
+    second: Tomb32_Tilemap_41
+  - first:
+      213: -4009355829242812908
+    second: Tomb32_Tilemap_42
+  - first:
+      213: 3413587983031781221
+    second: Tomb32_Tilemap_43
+  - first:
+      213: -324010916826295929
+    second: Tomb32_Tilemap_44
+  - first:
+      213: -3090788482373100067
+    second: Tomb32_Tilemap_45
+  - first:
+      213: 5527028600676189182
+    second: Tomb32_Tilemap_46
+  - first:
+      213: 3346803483727489922
+    second: Tomb32_Tilemap_47
+  - first:
+      213: 6096766559925305290
+    second: Tomb32_Tilemap_48
+  - first:
+      213: 6633197860556840532
+    second: Tomb32_Tilemap_49
+  - first:
+      213: 5334094568281110234
+    second: Tomb32_Tilemap_50
+  - first:
+      213: 1056012796736018967
+    second: Tomb32_Tilemap_51
+  - first:
+      213: 5363818597364752482
+    second: Tomb32_Tilemap_52
+  - first:
+      213: -4523298227688694760
+    second: Tomb32_Tilemap_53
+  - first:
+      213: 7652819957199386355
+    second: Tomb32_Tilemap_54
+  - first:
+      213: 3913191438055671288
+    second: Tomb32_Tilemap_55
+  - first:
+      213: -7165663906497919510
+    second: Tomb32_Tilemap_56
+  - first:
+      213: 1371527074204142719
+    second: Tomb32_Tilemap_57
+  - first:
+      213: 293670690903763538
+    second: Tomb32_Tilemap_58
+  - first:
+      213: 7523896906561232841
+    second: Tomb32_Tilemap_59
+  - first:
+      213: -1056301518965821695
+    second: Tomb32_Tilemap_60
+  - first:
+      213: -8165722660414566319
+    second: Tomb32_Tilemap_61
+  - first:
+      213: -5534255992517051799
+    second: Tomb32_Tilemap_62
+  - first:
+      213: 1080664423562167695
+    second: Tomb32_Tilemap_63
+  - first:
+      213: -6956561097409242681
+    second: Tomb32_Tilemap_64
+  - first:
+      213: -2939239313760758220
+    second: Tomb32_Tilemap_65
+  - first:
+      213: 4705209940765608494
+    second: Tomb32_Tilemap_66
+  - first:
+      213: -3403860884171682556
+    second: Tomb32_Tilemap_67
+  - first:
+      213: -7804001733256296764
+    second: Tomb32_Tilemap_68
+  - first:
+      213: 7614941047983106721
+    second: Tomb32_Tilemap_69
+  - first:
+      213: -963794033099406976
+    second: Tomb32_Tilemap_70
+  - first:
+      213: -8595448047801736741
+    second: Tomb32_Tilemap_71
+  - first:
+      213: 2253433513713408879
+    second: Tomb32_Tilemap_72
+  - first:
+      213: -2004792261540413921
+    second: Tomb32_Tilemap_73
+  - first:
+      213: 6381556974101423776
+    second: Tomb32_Tilemap_74
+  - first:
+      213: -8274411874534108572
+    second: Tomb32_Tilemap_75
+  - first:
+      213: 1773282406225415519
+    second: Tomb32_Tilemap_76
+  - first:
+      213: 1406241177378632486
+    second: Tomb32_Tilemap_77
+  - first:
+      213: -6058309013122246178
+    second: Tomb32_Tilemap_78
+  - first:
+      213: 5955543833430531588
+    second: Tomb32_Tilemap_79
+  - first:
+      213: 8398306861594019155
+    second: Tomb32_Tilemap_80
+  - first:
+      213: -4409703399645994120
+    second: Tomb32_Tilemap_81
+  - first:
+      213: 7845592333624376128
+    second: Tomb32_Tilemap_82
+  - first:
+      213: -9001896882876562094
+    second: Tomb32_Tilemap_83
+  - first:
+      213: -3297256691868879877
+    second: Tomb32_Tilemap_84
+  - first:
+      213: -8290482784740899613
+    second: Tomb32_Tilemap_85
+  - first:
+      213: -5390930348966423269
+    second: Tomb32_Tilemap_86
+  - first:
+      213: 7136659994024310644
+    second: Tomb32_Tilemap_87
+  - first:
+      213: 5163434880417110474
+    second: Tomb32_Tilemap_88
+  - first:
+      213: -6558272344926882054
+    second: Tomb32_Tilemap_89
+  - first:
+      213: -8243548480552137001
+    second: Tomb32_Tilemap_90
+  - first:
+      213: -6972570461213789885
+    second: Tomb32_Tilemap_91
+  - first:
+      213: -5114817114344986051
+    second: Tomb32_Tilemap_92
+  - first:
+      213: -5982960534359186420
+    second: Tomb32_Tilemap_93
+  - first:
+      213: -4078926697232615203
+    second: Tomb32_Tilemap_94
+  - first:
+      213: 7793858147438107291
+    second: Tomb32_Tilemap_95
+  - first:
+      213: -5849139530089203334
+    second: Tomb32_Tilemap_96
+  - first:
+      213: 5569501751552397013
+    second: Tomb32_Tilemap_97
+  - first:
+      213: -487964137466078997
+    second: Tomb32_Tilemap_98
+  - first:
+      213: -566880586997503397
+    second: Tomb32_Tilemap_99
+  - first:
+      213: -9170188412370454456
+    second: Tomb32_Tilemap_100
+  - first:
+      213: 8406813120231594906
+    second: Tomb32_Tilemap_101
+  - first:
+      213: 6400932801434054243
+    second: Tomb32_Tilemap_102
+  - first:
+      213: -7309884942353546138
+    second: Tomb32_Tilemap_103
+  - first:
+      213: 8542939037798559430
+    second: Tomb32_Tilemap_104
+  - first:
+      213: -5701094688922311721
+    second: Tomb32_Tilemap_105
+  - first:
+      213: -3991500927408361945
+    second: Tomb32_Tilemap_106
+  - first:
+      213: 6461373078543806991
+    second: Tomb32_Tilemap_107
+  - first:
+      213: 535279392345215467
+    second: Tomb32_Tilemap_108
+  - first:
+      213: -3568836802730216886
+    second: Tomb32_Tilemap_109
+  - first:
+      213: -1866592518058627894
+    second: Tomb32_Tilemap_110
+  - first:
+      213: 4943895083418092135
+    second: Tomb32_Tilemap_111
+  - first:
+      213: -5187447005973262637
+    second: Tomb32_Tilemap_112
+  - first:
+      213: 1783491009115489601
+    second: Tomb32_Tilemap_113
+  - first:
+      213: -7461006752862480678
+    second: Tomb32_Tilemap_114
+  - first:
+      213: 4170922714535909733
+    second: Tomb32_Tilemap_115
+  - first:
+      213: -2493075322942500264
+    second: Tomb32_Tilemap_116
+  - first:
+      213: -5389682197611675375
+    second: Tomb32_Tilemap_117
+  - first:
+      213: 4056722857848460668
+    second: Tomb32_Tilemap_118
+  - first:
+      213: -4224230984008390219
+    second: Tomb32_Tilemap_119
+  - first:
+      213: -7430214379184932737
+    second: Tomb32_Tilemap_120
+  - first:
+      213: 9095242412596456778
+    second: Tomb32_Tilemap_121
+  - first:
+      213: 8105536488770707105
+    second: Tomb32_Tilemap_122
+  - first:
+      213: -528246944306708768
+    second: Tomb32_Tilemap_123
+  - first:
+      213: 8555812562229694622
+    second: Tomb32_Tilemap_124
+  - first:
+      213: 2037555827424794634
+    second: Tomb32_Tilemap_125
+  - first:
+      213: 7072025432618574849
+    second: Tomb32_Tilemap_126
+  - first:
+      213: 3762354868129386438
+    second: Tomb32_Tilemap_127
+  - first:
+      213: -2547307713739181099
+    second: Tomb32_Tilemap_128
+  - first:
+      213: -962084722222830973
+    second: Tomb32_Tilemap_129
+  - first:
+      213: -1506288618626751459
+    second: Tomb32_Tilemap_130
+  - first:
+      213: -8861281762539729634
+    second: Tomb32_Tilemap_131
+  - first:
+      213: -5035368295824903615
+    second: Tomb32_Tilemap_132
+  - first:
+      213: -2925081920320879485
+    second: Tomb32_Tilemap_133
+  - first:
+      213: -6039558153876751918
+    second: Tomb32_Tilemap_134
+  - first:
+      213: -8376445686011279700
+    second: Tomb32_Tilemap_0
+  - first:
+      213: -159450438814686359
+    second: Tomb32_Tilemap_1
+  - first:
+      213: -2127339614983976926
+    second: Tomb32_Tilemap_2
+  - first:
+      213: 1194885669670416091
+    second: Tomb32_Tilemap_3
+  - first:
+      213: 184688625482707998
+    second: Tomb32_Tilemap_4
+  - first:
+      213: 552190570518142920
+    second: Tomb32_Tilemap_5
+  - first:
+      213: -8779934408624080357
+    second: Tomb32_Tilemap_6
+  - first:
+      213: 4246394576738511300
+    second: Tomb32_Tilemap_7
+  - first:
+      213: -1028815752530789276
+    second: Tomb32_Tilemap_8
+  - first:
+      213: -1132713574987395040
+    second: Tomb32_Tilemap_9
+  - first:
+      213: 3585600180422911796
+    second: Tomb32_Tilemap_10
+  - first:
+      213: 7998715519760187739
+    second: Tomb32_Tilemap_11
+  - first:
+      213: -383263070046168423
+    second: Tomb32_Tilemap_12
+  - first:
+      213: -3485466599923343031
+    second: Tomb32_Tilemap_13
+  - first:
+      213: -1837268117802394564
+    second: Tomb32_Tilemap_14
+  - first:
+      213: -3338878621642238170
+    second: Tomb32_Tilemap_15
+  - first:
+      213: -7706040247513538119
+    second: Tomb32_Tilemap_16
+  - first:
+      213: 8085810103479793697
+    second: Tomb32_Tilemap_17
+  - first:
+      213: -9212437210214750844
+    second: Tomb32_Tilemap_18
+  - first:
+      213: 2624584666989776683
+    second: Tomb32_Tilemap_19
+  - first:
+      213: -6735661631208424762
+    second: Tomb32_Tilemap_20
+  - first:
+      213: 1436772404010411964
+    second: Tomb32_Tilemap_21
+  - first:
+      213: 75247319337256284
+    second: Tomb32_Tilemap_22
+  - first:
+      213: 3500696948434065384
+    second: Tomb32_Tilemap_23
+  - first:
+      213: -3739735039149235278
+    second: Tomb32_Tilemap_24
+  - first:
+      213: 834042764816855168
+    second: Tomb32_Tilemap_25
+  - first:
+      213: -8437106444591270243
+    second: Tomb32_Tilemap_26
+  - first:
+      213: -6002437356033857554
+    second: Tomb32_Tilemap_27
+  - first:
+      213: -1218375716654057199
+    second: Tomb32_Tilemap_28
+  - first:
+      213: -5512173208506741822
+    second: Tomb32_Tilemap_29
+  - first:
+      213: 292086567368369007
+    second: Tomb32_Tilemap_30
+  - first:
+      213: 7157856207110948902
+    second: Tomb32_Tilemap_31
+  - first:
+      213: -2260792885107782088
+    second: Tomb32_Tilemap_32
+  - first:
+      213: -4469377345280496532
+    second: Tomb32_Tilemap_33
+  - first:
+      213: -7942169647875309629
+    second: Tomb32_Tilemap_34
+  - first:
+      213: 8040173911752494515
+    second: Tomb32_Tilemap_35
+  - first:
+      213: -6485520091915980802
+    second: Tomb32_Tilemap_36
+  - first:
+      213: -5009682609430120837
+    second: Tomb32_Tilemap_37
+  - first:
+      213: -6619839049700616935
+    second: Tomb32_Tilemap_38
+  - first:
+      213: 1955242276643975102
+    second: Tomb32_Tilemap_39
+  - first:
+      213: -6713485753104953745
+    second: Tomb32_Tilemap_40
+  - first:
+      213: 8190502520614096988
+    second: Tomb32_Tilemap_41
+  - first:
+      213: -1841109225418617621
+    second: Tomb32_Tilemap_42
+  - first:
+      213: -9185223726788351166
+    second: Tomb32_Tilemap_43
+  - first:
+      213: 4885130421718757185
+    second: Tomb32_Tilemap_44
+  - first:
+      213: -275357081370807478
+    second: Tomb32_Tilemap_45
+  - first:
+      213: 1225835665440119767
+    second: Tomb32_Tilemap_46
+  - first:
+      213: -8844844866039126197
+    second: Tomb32_Tilemap_47
+  - first:
+      213: -7066018051620802878
+    second: Tomb32_Tilemap_48
+  - first:
+      213: 7962735372887753978
+    second: Tomb32_Tilemap_49
+  - first:
+      213: -5645878722376025285
+    second: Tomb32_Tilemap_50
+  - first:
+      213: 3916239745746307324
+    second: Tomb32_Tilemap_51
+  - first:
+      213: -4214396432528165253
+    second: Tomb32_Tilemap_52
+  - first:
+      213: -4992811844270671960
+    second: Tomb32_Tilemap_53
+  - first:
+      213: -8862073761911099563
+    second: Tomb32_Tilemap_54
+  - first:
+      213: -7282177849575160551
+    second: Tomb32_Tilemap_55
+  - first:
+      213: 7600629087905060241
+    second: Tomb32_Tilemap_56
+  - first:
+      213: 3197083141480832981
+    second: Tomb32_Tilemap_57
+  - first:
+      213: -1360531103792408021
+    second: Tomb32_Tilemap_58
+  - first:
+      213: 5918304672935291524
+    second: Tomb32_Tilemap_59
+  - first:
+      213: -6845015334381234643
+    second: Tomb32_Tilemap_60
+  - first:
+      213: -8461867924131365242
+    second: Tomb32_Tilemap_61
+  - first:
+      213: 9183565610863488436
+    second: Tomb32_Tilemap_62
+  - first:
+      213: -5567562305573733189
+    second: Tomb32_Tilemap_63
+  - first:
+      213: 4130297441016508713
+    second: Tomb32_Tilemap_64
+  - first:
+      213: -8776348841835253929
+    second: Tomb32_Tilemap_65
+  - first:
+      213: 3132049211394327104
+    second: Tomb32_Tilemap_66
+  - first:
+      213: 7637254920553181557
+    second: Tomb32_Tilemap_67
+  - first:
+      213: -4902669130564259407
+    second: Tomb32_Tilemap_68
+  - first:
+      213: 4922306049164198674
+    second: Tomb32_Tilemap_69
+  - first:
+      213: -1581709871019980804
+    second: Tomb32_Tilemap_70
+  - first:
+      213: -5091524577755849223
+    second: Tomb32_Tilemap_71
+  - first:
+      213: -7214114080470507409
+    second: Tomb32_Tilemap_72
+  - first:
+      213: -4657332991222097547
+    second: Tomb32_Tilemap_73
+  - first:
+      213: 2991210881418931034
+    second: Tomb32_Tilemap_74
+  - first:
+      213: 910908655263342009
+    second: Tomb32_Tilemap_75
+  - first:
+      213: -3525747554376807896
+    second: Tomb32_Tilemap_76
+  - first:
+      213: -5362555344664934646
+    second: Tomb32_Tilemap_77
+  - first:
+      213: -6369310371362220526
+    second: Tomb32_Tilemap_78
+  - first:
+      213: -9042376291053455871
+    second: Tomb32_Tilemap_79
+  - first:
+      213: -7286806748907358051
+    second: Tomb32_Tilemap_80
+  - first:
+      213: 4743715333734942305
+    second: Tomb32_Tilemap_81
+  - first:
+      213: -3302194221045559437
+    second: Tomb32_Tilemap_82
+  - first:
+      213: -1847152619965484931
+    second: Tomb32_Tilemap_83
+  - first:
+      213: -1254236144094364065
+    second: Tomb32_Tilemap_84
+  - first:
+      213: -2726990127453646284
+    second: Tomb32_Tilemap_85
+  - first:
+      213: -4641322673242670078
+    second: Tomb32_Tilemap_86
+  - first:
+      213: -7685734120035549848
+    second: Tomb32_Tilemap_87
+  - first:
+      213: 2707123682390537831
+    second: Tomb32_Tilemap_88
+  - first:
+      213: -1471191756796628983
+    second: Tomb32_Tilemap_89
+  - first:
+      213: -5529408660033528204
+    second: Tomb32_Tilemap_90
+  - first:
+      213: -3952066155279667949
+    second: Tomb32_Tilemap_91
+  - first:
+      213: 3809912034871937089
+    second: Tomb32_Tilemap_92
+  - first:
+      213: 8763047628764435359
+    second: Tomb32_Tilemap_93
+  - first:
+      213: -6255831513645922584
+    second: Tomb32_Tilemap_94
+  - first:
+      213: 7326527112822445514
+    second: Tomb32_Tilemap_95
+  - first:
+      213: 8050338758921489230
+    second: Tomb32_Tilemap_96
+  - first:
+      213: -6029373173150657259
+    second: Tomb32_Tilemap_97
+  - first:
+      213: 866250925188385596
+    second: Tomb32_Tilemap_98
+  - first:
+      213: 7090892534830121061
+    second: Tomb32_Tilemap_99
+  - first:
+      213: 2010332521511742598
+    second: Tomb32_Tilemap_100
+  - first:
+      213: -3160640035597938865
+    second: Tomb32_Tilemap_101
+  - first:
+      213: 953079726248125496
+    second: Tomb32_Tilemap_102
+  - first:
+      213: -615279800496016192
+    second: Tomb32_Tilemap_103
+  - first:
+      213: -803951871902593736
+    second: Tomb32_Tilemap_104
+  - first:
+      213: -1187824391180592091
+    second: Tomb32_Tilemap_105
+  - first:
+      213: 6613980956647472441
+    second: Tomb32_Tilemap_106
+  - first:
+      213: 7074692368528310857
+    second: Tomb32_Tilemap_107
+  - first:
+      213: 8194156166364974130
+    second: Tomb32_Tilemap_108
+  - first:
+      213: -4959914344838197000
+    second: Tomb32_Tilemap_109
+  - first:
+      213: 769158619273211459
+    second: Tomb32_Tilemap_110
+  - first:
+      213: 3254324387456706796
+    second: Tomb32_Tilemap_111
+  - first:
+      213: -3549049432908630623
+    second: Tomb32_Tilemap_112
+  - first:
+      213: -8820497487509839567
+    second: Tomb32_Tilemap_113
+  - first:
+      213: -9183658286687701239
+    second: Tomb32_Tilemap_114
+  - first:
+      213: -4276087112583518965
+    second: Tomb32_Tilemap_115
+  - first:
+      213: -347179375918014946
+    second: Tomb32_Tilemap_116
+  - first:
+      213: -4597132001284857824
+    second: Tomb32_Tilemap_117
+  - first:
+      213: 6413051513483175051
+    second: Tomb32_Tilemap_118
+  - first:
+      213: 8728533043604453374
+    second: Tomb32_Tilemap_119
+  - first:
+      213: -1778458064163916205
+    second: Tomb32_Tilemap_120
+  - first:
+      213: 1152908904566672060
+    second: Tomb32_Tilemap_121
+  - first:
+      213: -8765219234823481649
+    second: Tomb32_Tilemap_122
+  - first:
+      213: -9212880939300911883
+    second: Tomb32_Tilemap_123
+  - first:
+      213: -1878469453131997181
+    second: Tomb32_Tilemap_124
+  - first:
+      213: 2491179430474940385
+    second: Tomb32_Tilemap_125
+  - first:
+      213: 410293088479491294
+    second: Tomb32_Tilemap_126
+  - first:
+      213: -8472238607156341971
+    second: Tomb32_Tilemap_127
+  - first:
+      213: 2019848040800918776
+    second: Tomb32_Tilemap_128
+  - first:
+      213: 3365261879232595277
+    second: Tomb32_Tilemap_129
+  - first:
+      213: 1237358238377793687
+    second: Tomb32_Tilemap_130
+  - first:
+      213: -5243413485217451707
+    second: Tomb32_Tilemap_131
+  - first:
+      213: -2257528361129763837
+    second: Tomb32_Tilemap_132
+  - first:
+      213: -43263418087574638
+    second: Tomb32_Tilemap_133
+  - first:
+      213: 6319287615832607232
+    second: Tomb32_Tilemap_134
+  - first:
+      213: -7390270869836466460
+    second: Tomb32_Tilemap_135
+  - first:
+      213: 9182976726830080833
+    second: Tomb32_Tilemap_136
+  - first:
+      213: -6411341531396275202
+    second: Tomb32_Tilemap_137
+  - first:
+      213: -5991766276596654805
+    second: Tomb32_Tilemap_138
+  - first:
+      213: -832661474840132128
+    second: Tomb32_Tilemap_139
+  - first:
+      213: 8882268500322739455
+    second: Tomb32_Tilemap_140
+  - first:
+      213: -9134969056282473585
+    second: Tomb32_Tilemap_141
+  - first:
+      213: -2859104310801861220
+    second: Tomb32_Tilemap_142
+  - first:
+      213: -4877786003379439858
+    second: Tomb32_Tilemap_143
+  - first:
+      213: -4593473927916132529
+    second: Tomb32_Tilemap_144
+  - first:
+      213: -7327682079710722264
+    second: Tomb32_Tilemap_145
+  - first:
+      213: -4523094923430075034
+    second: Tomb32_Tilemap_146
+  - first:
+      213: -3553324285437915464
+    second: Tomb32_Tilemap_147
+  - first:
+      213: 3302121151285133613
+    second: Tomb32_Tilemap_148
+  - first:
+      213: -6569446279866466461
+    second: Tomb32_Tilemap_149
+  - first:
+      213: 654261825732121102
+    second: Tomb32_Tilemap_150
+  - first:
+      213: 4484810238835511128
+    second: Tomb32_Tilemap_151
+  - first:
+      213: -8154752546150010344
+    second: Tomb32_Tilemap_152
+  - first:
+      213: 62014791509262709
+    second: Tomb32_Tilemap_153
+  - first:
+      213: 6611689598703399932
+    second: Tomb32_Tilemap_154
+  - first:
+      213: 6632707722159773379
+    second: Tomb32_Tilemap_155
+  - first:
+      213: -2456107116507215579
+    second: Tomb32_Tilemap_156
+  - first:
+      213: -2891280302093763828
+    second: Tomb32_Tilemap_157
+  - first:
+      213: -9144770036069025634
+    second: Tomb32_Tilemap_158
+  - first:
+      213: -3221796994225457701
+    second: Tomb32_Tilemap_159
+  - first:
+      213: 557734421155204273
+    second: Tomb32_Tilemap_160
+  - first:
+      213: 4071629011849068276
+    second: Tomb32_Tilemap_161
+  - first:
+      213: -6452465553065503174
+    second: Tomb32_Tilemap_162
+  - first:
+      213: -3987817086142809606
+    second: Tomb32_Tilemap_163
+  - first:
+      213: -5677648254331608775
+    second: Tomb32_Tilemap_164
+  - first:
+      213: -6119905297551606363
+    second: Tomb32_Tilemap_165
+  - first:
+      213: -8959572509368853625
+    second: Tomb32_Tilemap_166
+  - first:
+      213: 7598024469733652058
+    second: Tomb32_Tilemap_167
+  - first:
+      213: 5220551210095716545
+    second: Tomb32_Tilemap_168
+  - first:
+      213: 7140512129585018675
+    second: Tomb32_Tilemap_169
+  - first:
+      213: 403274673245834925
+    second: Tomb32_Tilemap_170
+  - first:
+      213: 7158744243322647129
+    second: Tomb32_Tilemap_171
+  - first:
+      213: 398197592864093798
+    second: Tomb32_Tilemap_172
+  - first:
+      213: -120417711255331570
+    second: Tomb32_Tilemap_173
+  - first:
+      213: 3162811717705848249
+    second: Tomb32_Tilemap_174
+  - first:
+      213: 2642293500273643100
+    second: Tomb32_Tilemap_175
+  - first:
+      213: -6892073073798198964
+    second: Tomb32_Tilemap_176
+  - first:
+      213: -435678261983889104
+    second: Tomb32_Tilemap_177
+  - first:
+      213: 8820689636241604296
+    second: Tomb32_Tilemap_178
+  - first:
+      213: 2018537563013428762
+    second: Tomb32_Tilemap_179
+  - first:
+      213: -1290013801070735070
+    second: Tomb32_Tilemap_180
+  - first:
+      213: -2403058204169886088
+    second: Tomb32_Tilemap_181
+  - first:
+      213: -8613205850721872226
+    second: Tomb32_Tilemap_182
+  - first:
+      213: -5920098709180724615
+    second: Tomb32_Tilemap_183
+  - first:
+      213: -1941067669404652688
+    second: Tomb32_Tilemap_184
+  - first:
+      213: -4624972953713189003
+    second: Tomb32_Tilemap_185
+  - first:
+      213: 8796468709529240390
+    second: Tomb32_Tilemap_186
+  - first:
+      213: 5559924858759358747
+    second: Tomb32_Tilemap_187
+  - first:
+      213: -6542961393519281489
+    second: Tomb32_Tilemap_188
+  - first:
+      213: -7436090934467974644
+    second: Tomb32_Tilemap_189
+  - first:
+      213: 5068349313668024648
+    second: Tomb32_Tilemap_190
+  - first:
+      213: -8840093141135027652
+    second: Tomb32_Tilemap_191
+  - first:
+      213: 2096523211251022073
+    second: Tomb32_Tilemap_192
+  - first:
+      213: -2657752003045084192
+    second: Tomb32_Tilemap_193
+  - first:
+      213: -3613826593561552755
+    second: Tomb32_Tilemap_194
+  - first:
+      213: 3734081207938098310
+    second: Tomb32_Tilemap_195
+  - first:
+      213: 8935011695514094803
+    second: Tomb32_Tilemap_196
+  - first:
+      213: 2235904821199059872
+    second: Tomb32_Tilemap_197
+  - first:
+      213: -7515814891008335763
+    second: Tomb32_Tilemap_198
+  - first:
+      213: 2448331103083566040
+    second: Tomb32_Tilemap_199
+  - first:
+      213: 284292596096381062
+    second: Tomb32_Tilemap_200
+  - first:
+      213: 1218099558234195899
+    second: Tomb32_Tilemap_201
+  - first:
+      213: -7613290556728767612
+    second: Tomb32_Tilemap_202
+  - first:
+      213: 47841648538539666
+    second: Tomb32_Tilemap_203
+  - first:
+      213: 6639626607731012962
+    second: Tomb32_Tilemap_204
+  - first:
+      213: -8796561970850648146
+    second: Tomb32_Tilemap_205
+  - first:
+      213: -126118405312179726
+    second: Tomb32_Tilemap_206
+  - first:
+      213: 2813155147082159464
+    second: Tomb32_Tilemap_135
+  - first:
+      213: -3464105434177202057
+    second: Tomb32_Tilemap_136
+  - first:
+      213: -6164671363478564229
+    second: Tomb32_Tilemap_137
+  - first:
+      213: 3399618844216421899
+    second: Tomb32_Tilemap_138
+  - first:
+      213: -6507744011445308237
+    second: Tomb32_Tilemap_139
+  - first:
+      213: 6354091186136483368
+    second: Tomb32_Tilemap_140
+  - first:
+      213: 5005257824648719242
+    second: Tomb32_Tilemap_141
+  - first:
+      213: -2265350622630078077
+    second: Tomb32_Tilemap_142
+  - first:
+      213: -3296193540828873266
+    second: Tomb32_Tilemap_143
+  - first:
+      213: -3617338841157246234
+    second: Tomb32_Tilemap_144
+  - first:
+      213: 8607232370021267195
+    second: Tomb32_Tilemap_145
+  - first:
+      213: 8241282522080741647
+    second: Tomb32_Tilemap_146
+  - first:
+      213: -2992393569202043062
+    second: Tomb32_Tilemap_147
+  - first:
+      213: 5235089630892422623
+    second: Tomb32_Tilemap_148
+  - first:
+      213: -7569417395703270128
+    second: Tomb32_Tilemap_149
+  - first:
+      213: -3516774003894910650
+    second: Tomb32_Tilemap_150
+  - first:
+      213: -5543645787792125132
+    second: Tomb32_Tilemap_151
+  - first:
+      213: -6303076476660656823
+    second: Tomb32_Tilemap_152
+  - first:
+      213: 1714119887699312631
+    second: Tomb32_Tilemap_153
+  - first:
+      213: -308193135512385057
+    second: Tomb32_Tilemap_154
+  - first:
+      213: -2700001417933926587
+    second: Tomb32_Tilemap_155
+  - first:
+      213: 8629169948353882104
+    second: Tomb32_Tilemap_156
+  - first:
+      213: 3784699795955406853
+    second: Tomb32_Tilemap_157
+  - first:
+      213: 1548348613151325648
+    second: Tomb32_Tilemap_158
+  - first:
+      213: 4369817977981110258
+    second: Tomb32_Tilemap_159
+  - first:
+      213: -6909694884305007364
+    second: Tomb32_Tilemap_160
+  - first:
+      213: -7933280097570107528
+    second: Tomb32_Tilemap_161
+  - first:
+      213: -1859672974232482003
+    second: Tomb32_Tilemap_162
+  - first:
+      213: 2377501708312676114
+    second: Tomb32_Tilemap_163
+  - first:
+      213: -2983946151771263376
+    second: Tomb32_Tilemap_164
+  - first:
+      213: 3191760184910309432
+    second: Tomb32_Tilemap_165
+  - first:
+      213: 7530375443746402057
+    second: Tomb32_Tilemap_166
+  - first:
+      213: 362449448287510416
+    second: Tomb32_Tilemap_167
+  - first:
+      213: -6083471917231814552
+    second: Tomb32_Tilemap_168
+  - first:
+      213: -8683926027558982715
+    second: Tomb32_Tilemap_169
+  - first:
+      213: -4586824603380860525
+    second: Tomb32_Tilemap_170
+  - first:
+      213: 7336960537195693507
+    second: Tomb32_Tilemap_171
+  - first:
+      213: -2177861996309602590
+    second: Tomb32_Tilemap_172
+  - first:
+      213: -568383567327533811
+    second: Tomb32_Tilemap_173
+  - first:
+      213: -3373615664221997812
+    second: Tomb32_Tilemap_174
+  - first:
+      213: 7540029650226580276
+    second: Tomb32_Tilemap_175
+  - first:
+      213: 1833358879991416670
+    second: Tomb32_Tilemap_176
+  - first:
+      213: 2253507014495175919
+    second: Tomb32_Tilemap_177
+  - first:
+      213: -8890774221055777688
+    second: Tomb32_Tilemap_178
+  - first:
+      213: 3664525601097015723
+    second: Tomb32_Tilemap_179
+  - first:
+      213: -5613737565784394604
+    second: Tomb32_Tilemap_180
+  - first:
+      213: 2774668484512644436
+    second: Tomb32_Tilemap_181
+  - first:
+      213: -4492464444031128352
+    second: Tomb32_Tilemap_182
+  - first:
+      213: -4577511393156539976
+    second: Tomb32_Tilemap_183
+  - first:
+      213: -3613303222964944018
+    second: Tomb32_Tilemap_184
+  - first:
+      213: 9196310340976918175
+    second: Tomb32_Tilemap_185
+  - first:
+      213: 2862568571271483005
+    second: Tomb32_Tilemap_186
+  - first:
+      213: 5545856628749381704
+    second: Tomb32_Tilemap_187
+  - first:
+      213: 6519109898492812362
+    second: Tomb32_Tilemap_188
+  - first:
+      213: -798729556698735714
+    second: Tomb32_Tilemap_189
+  - first:
+      213: -77476950460919317
+    second: Tomb32_Tilemap_190
+  - first:
+      213: -7676665329596978515
+    second: Tomb32_Tilemap_191
+  - first:
+      213: 5083046064943442621
+    second: Tomb32_Tilemap_192
+  - first:
+      213: -1749180355343991509
+    second: Tomb32_Tilemap_193
+  - first:
+      213: -8879846240549915511
+    second: Tomb32_Tilemap_194
+  - first:
+      213: 8324242468526294821
+    second: Tomb32_Tilemap_195
+  - first:
+      213: 5835305676930675061
+    second: Tomb32_Tilemap_196
+  - first:
+      213: 1211156198352969102
+    second: Tomb32_Tilemap_197
+  - first:
+      213: -5271204753238428784
+    second: Tomb32_Tilemap_198
+  - first:
+      213: -4492688336434216259
+    second: Tomb32_Tilemap_199
+  - first:
+      213: -4876503143062166710
+    second: Tomb32_Tilemap_200
+  - first:
+      213: -5034270215469539618
+    second: Tomb32_Tilemap_201
+  - first:
+      213: 6806591437267149983
+    second: Tomb32_Tilemap_202
+  - first:
+      213: 8352896317704941124
+    second: Tomb32_Tilemap_203
+  - first:
+      213: -7009742037076750998
+    second: Tomb32_Tilemap_204
+  - first:
+      213: 4050840776975207235
+    second: Tomb32_Tilemap_205
+  - first:
+      213: -2829259241708204824
+    second: Tomb32_Tilemap_206
+  - first:
+      213: 7286733440113083180
+    second: Tomb32_Tilemap_207
+  - first:
+      213: 3492345309685348788
+    second: Tomb32_Tilemap_208
+  - first:
+      213: 7263328041517407072
+    second: Tomb32_Tilemap_209
+  - first:
+      213: 6390705839375306687
+    second: Tomb32_Tilemap_210
+  - first:
+      213: 6202892501825204642
+    second: Tomb32_Tilemap_211
+  - first:
+      213: -9195090541371496564
+    second: Tomb32_Tilemap_212
+  - first:
+      213: -8966058596520868377
+    second: Tomb32_Tilemap_213
+  - first:
+      213: 2075290314599586570
+    second: Tomb32_Tilemap_214
+  - first:
+      213: 8546722353081677912
+    second: Tomb32_Tilemap_215
+  - first:
+      213: 4620685375350349702
+    second: Tomb32_Tilemap_216
+  - first:
+      213: -6441966841009334292
+    second: Tomb32_Tilemap_217
+  - first:
+      213: -3251992731617459552
+    second: Tomb32_Tilemap_218
+  - first:
+      213: -5672869019198721176
+    second: Tomb32_Tilemap_219
+  - first:
+      213: 8730871067914623657
+    second: Tomb32_Tilemap_220
+  - first:
+      213: 3935163267825996513
+    second: Tomb32_Tilemap_221
+  - first:
+      213: -7232043316646255874
+    second: Tomb32_Tilemap_222
+  - first:
+      213: -5645119607257893901
+    second: Tomb32_Tilemap_223
+  - first:
+      213: 7657447621287938704
+    second: Tomb32_Tilemap_224
+  - first:
+      213: 8948106162757918510
+    second: Tomb32_Tilemap_225
+  - first:
+      213: 4867999365115519412
+    second: Tomb32_Tilemap_226
+  - first:
+      213: -96574305571914168
+    second: Tomb32_Tilemap_227
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6c1f46703e0cb80800000000000000
+      internalID: -8376445686011279700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963ab23bba489cdf0800000000000000
+      internalID: -159450438814686359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228834c24eb2a72e0800000000000000
+      internalID: -2127339614983976926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdee8ef8f26159010800000000000000
+      internalID: 1194885669670416091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14b3fb8355209200800000000000000
+      internalID: 184688625482707998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfdd04f566c9a700800000000000000
+      internalID: 552190570518142920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a7bb66c28672680800000000000000
+      internalID: -8779934408624080357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9e4a28e593eea30800000000000000
+      internalID: 4246394576738511300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c73132689e8b1f0800000000000000
+      internalID: -1028815752530789276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0201d92410bc740f0800000000000000
+      internalID: -1132713574987395040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4372fa4ed5c92c130800000000000000
+      internalID: 3585600180422911796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c5bed265210f60800000000000000
+      internalID: 7998715519760187739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a5f56b4406eaaf0800000000000000
+      internalID: -383263070046168423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941a41b189221afc0800000000000000
+      internalID: -3485466599923343031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cdc319166b086e0800000000000000
+      internalID: -1837268117802394564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6275ed0759be9a1d0800000000000000
+      internalID: -3338878621642238170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1a7162935ae0590800000000000000
+      internalID: -7706040247513538119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1287d2bd271963070800000000000000
+      internalID: 8085810103479793697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4852f89ba29d62080800000000000000
+      internalID: -9212437210214750844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fccd659d56c6420800000000000000
+      internalID: 2624584666989776683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caf798fe6f1682a0800000000000000
+      internalID: -6735661631208424762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ef1c93e070f310800000000000000
+      internalID: 1436772404010411964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55c56bc9055b0100800000000000000
+      internalID: 75247319337256284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7d4bdb359f49030800000000000000
+      internalID: 3500696948434065384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3ad6dbbcac91cc0800000000000000
+      internalID: -3739735039149235278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080b464c97d139b00800000000000000
+      internalID: 834042764816855168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d967afde36069ea80800000000000000
+      internalID: -8437106444591270243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee72117e60f03bca0800000000000000
+      internalID: -6002437356033857554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1197fddadb5771fe0800000000000000
+      internalID: -1218375716654057199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbc78eeba3d083b0800000000000000
+      internalID: -5512173208506741822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63a7ab7f23bd0400800000000000000
+      internalID: 292086567368369007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6284c22eb40d55360800000000000000
+      internalID: 7157856207110948902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e8b6469dc00a0e0800000000000000
+      internalID: -2260792885107782088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ca067fbf499f1c0800000000000000
+      internalID: -4469377345280496532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfb080e8ceb7c190800000000000000
+      internalID: -7942169647875309629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdce56f29f649f60800000000000000
+      internalID: 8040173911752494515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff60b196ddcef5a0800000000000000
+      internalID: -6485520091915980802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76377b85380a7ab0800000000000000
+      internalID: -5009682609430120837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915d55c257b9124a0800000000000000
+      internalID: -6619839049700616935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfa035cd7a622b10800000000000000
+      internalID: 1955242276643975102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e8881f648e4d2a0800000000000000
+      internalID: -6713485753104953745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c501529b5a28aa170800000000000000
+      internalID: 8190502520614096988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec8a320ae01376e0800000000000000
+      internalID: -1841109225418617621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b6a469fa7878080800000000000000
+      internalID: -9185223726788351166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f200c6c387bc340800000000000000
+      internalID: 4885130421718757185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a433182813cbd2cf0800000000000000
+      internalID: -275357081370807478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db109ffa0b030110800000000000000
+      internalID: 1225835665440119767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47ec42d47cc04580800000000000000
+      internalID: -8844844866039126197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cee4a8f40670fd90800000000000000
+      internalID: -7066018051620802878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4896d12a1518e60800000000000000
+      internalID: 7962735372887753978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b37d3173fc5a1b0800000000000000
+      internalID: -5645878722376025285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf88974bc47495630800000000000000
+      internalID: 3916239745746307324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b763c7006c47385c0800000000000000
+      internalID: -4214396432528165253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a732e7a418f5bab0800000000000000
+      internalID: -4992811844270671960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55faaf7edd6930580800000000000000
+      internalID: -8862073761911099563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915cad414d180fa90800000000000000
+      internalID: -7282177849575160551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1951516b2ebda7960800000000000000
+      internalID: 7600629087905060241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfda55ad225e5c20800000000000000
+      internalID: 3197083141480832981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a55946b2c6e1de0800000000000000
+      internalID: -1360531103792408021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aa7d65eba022250800000000000000
+      internalID: 5918304672935291524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26da10e1de9101a0800000000000000
+      internalID: -6845015334381234643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eb0e5b4f7619a80800000000000000
+      internalID: -8461867924131365242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bde2073444927f70800000000000000
+      internalID: 9183565610863488436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc3c6fc49b0cb2b0800000000000000
+      internalID: -5567562305573733189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9217e7ca3a3c15930800000000000000
+      internalID: 4130297441016508713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75faf793a35243680800000000000000
+      internalID: -8776348841835253929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0428338d926477b20800000000000000
+      internalID: 3132049211394327104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5713da6e2eafcf960800000000000000
+      internalID: 7637254920553181557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1b175b66836fbb0800000000000000
+      internalID: -4902669130564259407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2134030b54b8f4440800000000000000
+      internalID: 4922306049164198674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf70028a043ac0ae0800000000000000
+      internalID: -1581709871019980804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd11b16f554759b0800000000000000
+      internalID: -5091524577755849223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f606960477152eb90800000000000000
+      internalID: -7214114080470507409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579df71f154dd5fb0800000000000000
+      internalID: -4657332991222097547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b2243d27ae28920800000000000000
+      internalID: 2991210881418931034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bddcc3889234ac00800000000000000
+      internalID: 910908655263342009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a0bad8747021fc0800000000000000
+      internalID: -3525747554376807896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07cfd873506495b0800000000000000
+      internalID: -5362555344664934646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2165eba96f9ab97a0800000000000000
+      internalID: -6369310371362220526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106385efba6038280800000000000000
+      internalID: -9042376291053455871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9835787edf00ea90800000000000000
+      internalID: -7286806748907358051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16648d676ff05d140800000000000000
+      internalID: 4743715333734942305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f4b3b0adf3c22d0800000000000000
+      internalID: -3302194221045559437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7076019a789d56e0800000000000000
+      internalID: -1847152619965484931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ebcc64fde089ee0800000000000000
+      internalID: -1254236144094364065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432d0236de8c72ad0800000000000000
+      internalID: -2726990127453646284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c77659e95b69fb0800000000000000
+      internalID: -4641322673242670078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d7e21e989c65590800000000000000
+      internalID: -7685734120035549848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7667feb65a2a19520800000000000000
+      internalID: 2707123682390537831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90077a354e6459be0800000000000000
+      internalID: -1471191756796628983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e9bb8ae189343b0800000000000000
+      internalID: -5529408660033528204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d26bd45c07729c0800000000000000
+      internalID: -3952066155279667949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14807085fc68fd430800000000000000
+      internalID: 3809912034871937089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f935556c3699c9970800000000000000
+      internalID: 8763047628764435359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6c0761262de29a0800000000000000
+      internalID: -6255831513645922584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5dc0d679d0da560800000000000000
+      internalID: 7326527112822445514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b031fd27c88bf60800000000000000
+      internalID: 8050338758921489230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515d5144b0d535ca0800000000000000
+      internalID: -6029373173150657259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b053a70aa850c00800000000000000
+      internalID: 866250925188385596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_99
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560c407f039e76260800000000000000
+      internalID: 7090892534830121061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c6f11f6c226eb10800000000000000
+      internalID: 2010332521511742598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_101
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f8e4722a62324d0800000000000000
+      internalID: -3160640035597938865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_102
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83465ad16f40a3d00800000000000000
+      internalID: 953079726248125496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_103
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c436f508461677f0800000000000000
+      internalID: -615279800496016192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d4cb2380ac7d4f0800000000000000
+      internalID: -803951871902593736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cd2247200048fe0800000000000000
+      internalID: -1187824391180592091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dbb2043a499cb50800000000000000
+      internalID: 6613980956647472441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9420c41d93b5e2260800000000000000
+      internalID: 7074692368528310857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cc24a6e9d77b170800000000000000
+      internalID: 8194156166364974130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01e8f9e28da2bb0800000000000000
+      internalID: -4959914344838197000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ea5b560b99caa00800000000000000
+      internalID: 769158619273211459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce86f3ac9cea92d20800000000000000
+      internalID: 3254324387456706796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5fd2d285e3fbec0800000000000000
+      internalID: -3549049432908630623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13120c2a44c479580800000000000000
+      internalID: -8820497487509839567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_114
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907386302771d8080800000000000000
+      internalID: -9183658286687701239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_115
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0565d14d6948a4c0800000000000000
+      internalID: -4276087112583518965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_116
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e901172329e2bf0800000000000000
+      internalID: -347179375918014946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_117
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020e5dd2dc4b330c0800000000000000
+      internalID: -4597132001284857824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_118
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84227baf5cbff850800000000000000
+      internalID: 6413051513483175051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_119
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef77d42be8af12970800000000000000
+      internalID: 8728533043604453374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356b49530d5a157e0800000000000000
+      internalID: -1778458064163916205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbac4135a84ffff00800000000000000
+      internalID: 1152908904566672060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6dce9cb8fab5680800000000000000
+      internalID: -8765219234823481649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4800ff895452080800000000000000
+      internalID: -9212880939300911883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30025a42cf55ee5e0800000000000000
+      internalID: -1878469453131997181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eff7314e72729220800000000000000
+      internalID: 2491179430474940385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed43e90e367a1b500800000000000000
+      internalID: 410293088479491294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d239818efdf8c6a80800000000000000
+      internalID: -8472238607156341971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc153c6711f70c10800000000000000
+      internalID: 2019848040800918776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4582d769dfc3be20800000000000000
+      internalID: 3365261879232595277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798596213cafb2110800000000000000
+      internalID: 1237358238377793687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541fe1b4737ab37b0800000000000000
+      internalID: -5243413485217451707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c9d7c9ae5aba0e0800000000000000
+      internalID: -2257528361129763837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_133
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293fe15862c466ff0800000000000000
+      internalID: -43263418087574638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_134
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a4a370b9e92b750800000000000000
+      internalID: 6319287615832607232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865d4e793b55a0720800000000000000
+      internalID: 2813155147082159464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7781e5316760defc0800000000000000
+      internalID: -3464105434177202057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7256d68e00b27aa0800000000000000
+      internalID: -6164671363478564229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e6e3da35fdd2f20800000000000000
+      internalID: 3399618844216421899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b470a41d49dfa5a0800000000000000
+      internalID: -6507744011445308237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8260b14b4444e2850800000000000000
+      internalID: 6354091186136483368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b6e67f87f367540800000000000000
+      internalID: 5005257824648719242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3899c6e6c9bdf80e0800000000000000
+      internalID: -2265350622630078077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd35f740719142d0800000000000000
+      internalID: -3296193540828873266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2699c4d71accdc0800000000000000
+      internalID: -3617338841157246234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf67c5acc38037770800000000000000
+      internalID: 8607232370021267195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0902462acaee5270800000000000000
+      internalID: 8241282522080741647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a478c8737e1e876d0800000000000000
+      internalID: -2992393569202043062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd57ca85846c6a840800000000000000
+      internalID: 5235089630892422623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_149
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015b17cabf604f690800000000000000
+      internalID: -7569417395703270128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64104861da8e13fc0800000000000000
+      internalID: -3516774003894910650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_151
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4335f0a07830113b0800000000000000
+      internalID: -5543645787792125132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_152
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9455580f659f688a0800000000000000
+      internalID: -6303076476660656823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffffb0c4f6c9c710800000000000000
+      internalID: 1714119887699312631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_154
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd90293e9f319bbf0800000000000000
+      internalID: -308193135512385057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_155
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f4ffef30ba78ad0800000000000000
+      internalID: -2700001417933926587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_156
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7eb164958f0c770800000000000000
+      internalID: 8629169948353882104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5085a678964f58430800000000000000
+      internalID: 3784699795955406853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_158
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd7a533cd6dc7510800000000000000
+      internalID: 1548348613151325648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_159
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f70ea67c46b4ac30800000000000000
+      internalID: 4369817977981110258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_160
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc8aa2ac15db10a0800000000000000
+      internalID: -6909694884305007364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_161
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f48a898c357e190800000000000000
+      internalID: -7933280097570107528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_162
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f8a7c684d1136e0800000000000000
+      internalID: -1859672974232482003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_163
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2178cd805359ef020800000000000000
+      internalID: 2377501708312676114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_164
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ea7cad8c4e696d0800000000000000
+      internalID: -2983946151771263376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83860dd3af86b4c20800000000000000
+      internalID: 3191760184910309432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f24d58194418860800000000000000
+      internalID: 7530375443746402057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_167
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f96365adda70500800000000000000
+      internalID: 362449448287510416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868455cd58a239ba0800000000000000
+      internalID: -6083471917231814552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbe39f894f7c7780800000000000000
+      internalID: -8683926027558982715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399367443535850c0800000000000000
+      internalID: -4586824603380860525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5cb965cbe12d560800000000000000
+      internalID: 7336960537195693507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_172
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee942c9d0ea6c1e0800000000000000
+      internalID: -2177861996309602590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_173
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05e54d2822bc18f0800000000000000
+      internalID: -568383567327533811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05ba557d628e21d0800000000000000
+      internalID: -3373615664221997812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_175
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b0ba1a40193a860800000000000000
+      internalID: 7540029650226580276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_176
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5742b31036617910800000000000000
+      internalID: 1833358879991416670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_177
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe406d9a0b0164f10800000000000000
+      internalID: 2253507014495175919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_178
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86425c783ff9d9480800000000000000
+      internalID: -8890774221055777688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_179
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba166b36e920bd230800000000000000
+      internalID: 3664525601097015723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_180
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494b7214d6ff712b0800000000000000
+      internalID: -5613737565784394604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_181
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45df8dc294a918620800000000000000
+      internalID: 2774668484512644436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_182
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eca377e36f87a1c0800000000000000
+      internalID: -4492464444031128352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_183
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9d99ff3a96970c0800000000000000
+      internalID: -4577511393156539976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_184
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e638661ecd7faddc0800000000000000
+      internalID: -3613303222964944018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_185
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e3e2ee78bdf9f70800000000000000
+      internalID: 9196310340976918175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_186
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e85d3f2f2e9b720800000000000000
+      internalID: 2862568571271483005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_187
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8403adb7837d6fc40800000000000000
+      internalID: 5545856628749381704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_188
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c9567b9e7887a50800000000000000
+      internalID: 6519109898492812362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_189
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bdd5533b75ae4f0800000000000000
+      internalID: -798729556698735714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_190
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be11f71cf1fbceef0800000000000000
+      internalID: -77476950460919317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_191
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaa0d13e81077590800000000000000
+      internalID: -7676665329596978515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_192
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaa6e5077b9a8640800000000000000
+      internalID: 5083046064943442621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_193
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d31affbb9a9b7e0800000000000000
+      internalID: -1749180355343991509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_194
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9843fe344e274c480800000000000000
+      internalID: -8879846240549915511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5270bb0eb66a58370800000000000000
+      internalID: 8324242468526294821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_196
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571f54da89b2bf050800000000000000
+      internalID: 5835305676930675061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_197
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d575a3524eec010800000000000000
+      internalID: 1211156198352969102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_198
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0937fd8743be8d6b0800000000000000
+      internalID: -5271204753238428784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db24c44e2c3c6a1c0800000000000000
+      internalID: -4492688336434216259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_200
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4324bb6a3e235cb0800000000000000
+      internalID: -4876503143062166710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_201
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ededb9769eda22ab0800000000000000
+      internalID: -5034270215469539618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_202
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94268d69ded57e50800000000000000
+      internalID: 6806591437267149983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_203
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ea87602f27be370800000000000000
+      internalID: 8352896317704941124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_204
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dcae8a1c468be90800000000000000
+      internalID: -7009742037076750998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_205
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b4641793a773830800000000000000
+      internalID: 4050840776975207235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_206
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eccd70b5b37cb8d0800000000000000
+      internalID: -2829259241708204824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_207
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2386eef47daf1560800000000000000
+      internalID: 7286733440113083180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_208
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9fbc05e8d477030800000000000000
+      internalID: 3492345309685348788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_209
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b57c9fe568cc460800000000000000
+      internalID: 7263328041517407072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfcafbf91950b850800000000000000
+      internalID: 6390705839375306687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_211
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1b937bdd9151650800000000000000
+      internalID: 6202892501825204642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c876ffbced9746080800000000000000
+      internalID: -9195090541371496564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_213
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5490fe539229380800000000000000
+      internalID: -8966058596520868377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_214
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b5487bb89eccc10800000000000000
+      internalID: 2075290314599586570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_215
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858f25992be0c9670800000000000000
+      internalID: 8546722353081677912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_216
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f99901ed8ff1040800000000000000
+      internalID: 4620685375350349702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_217
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce71bc20a498996a0800000000000000
+      internalID: -6441966841009334292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_218
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a20ac327d99ed2d0800000000000000
+      internalID: -3251992731617459552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_219
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8637755eeabe541b0800000000000000
+      internalID: -5672869019198721176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_220
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa59c66af84a2970800000000000000
+      internalID: 8730871067914623657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_221
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e21fe784228c9630800000000000000
+      internalID: 3935163267825996513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_222
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2ef07abee92ab90800000000000000
+      internalID: -7232043316646255874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3fcc650a188a1b0800000000000000
+      internalID: -5645119607257893901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_224
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a07096a08b44a60800000000000000
+      internalID: 7657447621287938704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_225
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f5bab552f0e2c70800000000000000
+      internalID: 8948106162757918510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_226
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1a98c71ab9e8340800000000000000
+      internalID: 4867999365115519412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomb32_Tilemap_227
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb4f54e26e8aef0800000000000000
+      internalID: -96574305571914168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

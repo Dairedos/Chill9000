@@ -4,7 +4,7 @@
 
     private RangeValue<float> MovementValue = new RangeValue<float>(0f, 10f, 0f);
 
-    private float speedUpStep = 0.5f;
+    private float speedUpStep = 0.25f;
     private float slowDownStep = 1f;
 
     private bool movesPositive = false;

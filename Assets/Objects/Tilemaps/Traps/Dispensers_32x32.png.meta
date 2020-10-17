@@ -1,0 +1,2134 @@
+fileFormatVersion: 2
+guid: 30161ed878ec7db4c9007b6e733934f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9090235318795920460
+    second: Dispensers_32x32_0
+  - first:
+      213: -7265346891961037809
+    second: Dispensers_32x32_1
+  - first:
+      213: -7587172946280119050
+    second: Dispensers_32x32_2
+  - first:
+      213: -9073241684782827909
+    second: Dispensers_32x32_3
+  - first:
+      213: -1016800337569743328
+    second: Dispensers_32x32_4
+  - first:
+      213: 2681375019712274056
+    second: Dispensers_32x32_5
+  - first:
+      213: -4110311813077450205
+    second: Dispensers_32x32_6
+  - first:
+      213: -8531445368189040716
+    second: Dispensers_32x32_7
+  - first:
+      213: 8143047661687228497
+    second: Dispensers_32x32_8
+  - first:
+      213: 6046850683081930095
+    second: Dispensers_32x32_9
+  - first:
+      213: -7663102801581210127
+    second: Dispensers_32x32_10
+  - first:
+      213: -8049532174786262815
+    second: Dispensers_32x32_11
+  - first:
+      213: 6101236340923666755
+    second: Dispensers_32x32_12
+  - first:
+      213: 8013810623387034957
+    second: Dispensers_32x32_13
+  - first:
+      213: 5503050254769792385
+    second: Dispensers_32x32_14
+  - first:
+      213: -3079077787044817913
+    second: Dispensers_32x32_15
+  - first:
+      213: 5120597692524293333
+    second: Dispensers_32x32_16
+  - first:
+      213: -7032772754634998922
+    second: Dispensers_32x32_17
+  - first:
+      213: -2049017379136193523
+    second: Dispensers_32x32_18
+  - first:
+      213: 6753736858620474671
+    second: Dispensers_32x32_19
+  - first:
+      213: 5278466708424599388
+    second: Dispensers_32x32_20
+  - first:
+      213: -345557756305722123
+    second: Dispensers_32x32_21
+  - first:
+      213: -4602185625592297802
+    second: Dispensers_32x32_22
+  - first:
+      213: 81819988951631099
+    second: Dispensers_32x32_23
+  - first:
+      213: 4426637231755744991
+    second: Dispensers_32x32_24
+  - first:
+      213: 1688965757246784431
+    second: Dispensers_32x32_25
+  - first:
+      213: 3734304377891479191
+    second: Dispensers_32x32_26
+  - first:
+      213: -9190176363864008017
+    second: Dispensers_32x32_27
+  - first:
+      213: 1582650614278467350
+    second: Dispensers_32x32_28
+  - first:
+      213: -8176629049879920413
+    second: Dispensers_32x32_29
+  - first:
+      213: -4984729079142212860
+    second: Dispensers_32x32_30
+  - first:
+      213: 1052678515620752726
+    second: Dispensers_32x32_31
+  - first:
+      213: -2188996895501454793
+    second: Dispensers_32x32_32
+  - first:
+      213: -3164791935831595133
+    second: Dispensers_32x32_33
+  - first:
+      213: -3949190097047952046
+    second: Dispensers_32x32_34
+  - first:
+      213: 2593944006252230607
+    second: Dispensers_32x32_35
+  - first:
+      213: 1027790559349667633
+    second: Dispensers_32x32_36
+  - first:
+      213: -660149795299858688
+    second: Dispensers_32x32_37
+  - first:
+      213: -1829848459193412429
+    second: Dispensers_32x32_38
+  - first:
+      213: 981561994664097906
+    second: Dispensers_32x32_39
+  - first:
+      213: -4127912163222187279
+    second: Dispensers_32x32_40
+  - first:
+      213: -1945384090539225919
+    second: Dispensers_32x32_41
+  - first:
+      213: 3108111769192613192
+    second: Dispensers_32x32_42
+  - first:
+      213: -6818284297181801583
+    second: Dispensers_32x32_43
+  - first:
+      213: -334590979665009668
+    second: Dispensers_32x32_44
+  - first:
+      213: -6269342137568299595
+    second: Dispensers_32x32_45
+  - first:
+      213: 15305683698306607
+    second: Dispensers_32x32_46
+  - first:
+      213: 7766247405371290211
+    second: Dispensers_32x32_47
+  - first:
+      213: 6292023239696261925
+    second: Dispensers_32x32_48
+  - first:
+      213: 5295235966430627187
+    second: Dispensers_32x32_49
+  - first:
+      213: 7311963761435080032
+    second: Dispensers_32x32_50
+  - first:
+      213: -2168985310202976836
+    second: Dispensers_32x32_51
+  - first:
+      213: -2714492103131192592
+    second: Dispensers_32x32_52
+  - first:
+      213: -4834313559949744310
+    second: Dispensers_32x32_53
+  - first:
+      213: -7334323738634405448
+    second: Dispensers_32x32_54
+  - first:
+      213: -2702173040766150343
+    second: Dispensers_32x32_55
+  - first:
+      213: 6468686758998848387
+    second: Dispensers_32x32_56
+  - first:
+      213: 7487441667482264450
+    second: Dispensers_32x32_0
+  - first:
+      213: -894258594515200438
+    second: Dispensers_32x32_1
+  - first:
+      213: 4587735883708082828
+    second: Dispensers_32x32_2
+  - first:
+      213: -4752737536554725775
+    second: Dispensers_32x32_3
+  - first:
+      213: 9004657831031422366
+    second: Dispensers_32x32_4
+  - first:
+      213: -6149351666148746157
+    second: Dispensers_32x32_5
+  - first:
+      213: 2145835022658475532
+    second: Dispensers_32x32_6
+  - first:
+      213: -851812374237498455
+    second: Dispensers_32x32_7
+  - first:
+      213: -4965764011697650436
+    second: Dispensers_32x32_8
+  - first:
+      213: -3760832013096710256
+    second: Dispensers_32x32_9
+  - first:
+      213: 5582373693536072174
+    second: Dispensers_32x32_10
+  - first:
+      213: -7737503556917676508
+    second: Dispensers_32x32_11
+  - first:
+      213: -1707373279239458084
+    second: Dispensers_32x32_12
+  - first:
+      213: 2015356034722147895
+    second: Dispensers_32x32_13
+  - first:
+      213: -6987031474804072558
+    second: Dispensers_32x32_14
+  - first:
+      213: 7549686703605142151
+    second: Dispensers_32x32_15
+  - first:
+      213: -1811851573509609937
+    second: Dispensers_32x32_16
+  - first:
+      213: 6240198530342235429
+    second: Dispensers_32x32_17
+  - first:
+      213: -4882911539856531972
+    second: Dispensers_32x32_18
+  - first:
+      213: 3791339828021979296
+    second: Dispensers_32x32_19
+  - first:
+      213: 5654597907748206241
+    second: Dispensers_32x32_20
+  - first:
+      213: -6494337696687331328
+    second: Dispensers_32x32_21
+  - first:
+      213: -1195676384848703997
+    second: Dispensers_32x32_22
+  - first:
+      213: 3216914521342950462
+    second: Dispensers_32x32_23
+  - first:
+      213: -4394188932629645161
+    second: Dispensers_32x32_24
+  - first:
+      213: 7973063324449872940
+    second: Dispensers_32x32_25
+  - first:
+      213: 6501595143207250300
+    second: Dispensers_32x32_26
+  - first:
+      213: -8458004469571985738
+    second: Dispensers_32x32_27
+  - first:
+      213: 6429541397814936266
+    second: Dispensers_32x32_28
+  - first:
+      213: -3042454903436100336
+    second: Dispensers_32x32_29
+  - first:
+      213: -6965341417355635717
+    second: Dispensers_32x32_30
+  - first:
+      213: 4908655473169592079
+    second: Dispensers_32x32_31
+  - first:
+      213: -7921619253959864439
+    second: Dispensers_32x32_32
+  - first:
+      213: -4303774367984966433
+    second: Dispensers_32x32_33
+  - first:
+      213: -4089386985889631779
+    second: Dispensers_32x32_34
+  - first:
+      213: 820061880118580782
+    second: Dispensers_32x32_35
+  - first:
+      213: -1893060844117130541
+    second: Dispensers_32x32_36
+  - first:
+      213: 2372819943257656499
+    second: Dispensers_32x32_37
+  - first:
+      213: 3892606192406433275
+    second: Dispensers_32x32_38
+  - first:
+      213: -1140256067873091747
+    second: Dispensers_32x32_39
+  - first:
+      213: -4508877741548947242
+    second: Dispensers_32x32_40
+  - first:
+      213: -3527359829062286560
+    second: Dispensers_32x32_41
+  - first:
+      213: 1237562721954510670
+    second: Dispensers_32x32_42
+  - first:
+      213: -7900865885675832452
+    second: Dispensers_32x32_43
+  - first:
+      213: 360262272945146369
+    second: Dispensers_32x32_44
+  - first:
+      213: -5005482184012573164
+    second: Dispensers_32x32_45
+  - first:
+      213: -2532408406163719530
+    second: Dispensers_32x32_46
+  - first:
+      213: -1765958657205606024
+    second: Dispensers_32x32_47
+  - first:
+      213: 302051356521505137
+    second: Dispensers_32x32_48
+  - first:
+      213: 6792205316620117368
+    second: Dispensers_32x32_49
+  - first:
+      213: 4792984018371727370
+    second: Dispensers_32x32_50
+  - first:
+      213: -8377934862709451641
+    second: Dispensers_32x32_51
+  - first:
+      213: 7782570682547967513
+    second: Dispensers_32x32_52
+  - first:
+      213: -6657630338645885871
+    second: Dispensers_32x32_53
+  - first:
+      213: -7468894990930340016
+    second: Dispensers_32x32_54
+  - first:
+      213: -7730184184026827636
+    second: Dispensers_32x32_55
+  - first:
+      213: -6656336664233564439
+    second: Dispensers_32x32_56
+  - first:
+      213: 6378537082566940568
+    second: Dispensers_32x32_57
+  - first:
+      213: -3610601836579026563
+    second: Dispensers_32x32_58
+  - first:
+      213: -7634993799162895320
+    second: Dispensers_32x32_59
+  - first:
+      213: -2192228586657356038
+    second: Dispensers_32x32_60
+  - first:
+      213: -7634439689170176704
+    second: Dispensers_32x32_61
+  - first:
+      213: -1136964697653205762
+    second: Dispensers_32x32_62
+  - first:
+      213: -3900298636979565628
+    second: Dispensers_32x32_63
+  - first:
+      213: 2390434612911107079
+    second: Dispensers_32x32_64
+  - first:
+      213: -2383673892935142658
+    second: Dispensers_32x32_65
+  - first:
+      213: -7652425292129898409
+    second: Dispensers_32x32_66
+  - first:
+      213: 3487961759140724978
+    second: Dispensers_32x32_67
+  - first:
+      213: -5600279685327918250
+    second: Dispensers_32x32_68
+  - first:
+      213: -8548049965186101548
+    second: Dispensers_32x32_69
+  - first:
+      213: 234222095538174639
+    second: Dispensers_32x32_70
+  - first:
+      213: 6255984515193704147
+    second: Dispensers_32x32_71
+  - first:
+      213: 3040809016951476582
+    second: Dispensers_32x32_72
+  - first:
+      213: -1420415330121981490
+    second: Dispensers_32x32_57
+  - first:
+      213: 7852827810186660186
+    second: Dispensers_32x32_58
+  - first:
+      213: 1418538520535049718
+    second: Dispensers_32x32_59
+  - first:
+      213: -1075782708786643082
+    second: Dispensers_32x32_60
+  - first:
+      213: -6901510448884750332
+    second: Dispensers_32x32_61
+  - first:
+      213: 4574411799424941050
+    second: Dispensers_32x32_62
+  - first:
+      213: 5665566671000817196
+    second: Dispensers_32x32_63
+  - first:
+      213: -2211460739272171381
+    second: Dispensers_32x32_64
+  - first:
+      213: 8854239391655492639
+    second: Dispensers_32x32_65
+  - first:
+      213: 1680509678761222581
+    second: Dispensers_32x32_66
+  - first:
+      213: -8398097999540649203
+    second: Dispensers_32x32_67
+  - first:
+      213: 2592761106462271933
+    second: Dispensers_32x32_68
+  - first:
+      213: -1518160723248402032
+    second: Dispensers_32x32_69
+  - first:
+      213: 7455680754444078254
+    second: Dispensers_32x32_70
+  - first:
+      213: 3041174768662475161
+    second: Dispensers_32x32_71
+  - first:
+      213: -1619501045787563552
+    second: Dispensers_32x32_72
+  - first:
+      213: 1260099160682558365
+    second: Dispensers_32x32_73
+  - first:
+      213: -6657883647375390560
+    second: Dispensers_32x32_74
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dispensers_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2832db2c68cb8e760800000000000000
+      internalID: 7487441667482264450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46d498db84f693f0800000000000000
+      internalID: -894258594515200438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aabb7ba79eaaf30800000000000000
+      internalID: 4587735883708082828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e8dfe3462ea0eb0800000000000000
+      internalID: -4752737536554725775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d319ea698f6fc70800000000000000
+      internalID: 9004657831031422366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c5f348d3d19aaa0800000000000000
+      internalID: -6149351666148746157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c069620859987cd10800000000000000
+      internalID: 2145835022658475532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3ba42a821cd24f0800000000000000
+      internalID: -851812374237498455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4c75ce0ff061bb0800000000000000
+      internalID: -4965764011697650436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f0477b537decbc0800000000000000
+      internalID: -3760832013096710256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1f3be2c43987d40800000000000000
+      internalID: 5582373693536072174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426b991928dde9490800000000000000
+      internalID: -7737503556917676508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd230ff6c013e48e0800000000000000
+      internalID: -1707373279239458084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ead81c2abf7fb10800000000000000
+      internalID: 2015356034722147895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f54dd74e3190f90800000000000000
+      internalID: -6987031474804072558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782dfd59e00e5c860800000000000000
+      internalID: 7549686703605142151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f262a3fe7920bd6e0800000000000000
+      internalID: -1811851573509609937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52da6f85083a99650800000000000000
+      internalID: 6240198530342235429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd123543d96c3cb0800000000000000
+      internalID: -4882911539856531972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a86a087c7b8d9430800000000000000
+      internalID: 3791339828021979296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6bff676da297e40800000000000000
+      internalID: 5654597907748206241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008e589f54a7fd5a0800000000000000
+      internalID: -6494337696687331328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e05c6b9aa186fe0800000000000000
+      internalID: -1195676384848703997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c317596b6c4ac20800000000000000
+      internalID: 3216914521342950462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79838aa7274b403c0800000000000000
+      internalID: -4394188932629645161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c9789b9d206ae60800000000000000
+      internalID: 7973063324449872940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79e548f55e4a3a50800000000000000
+      internalID: 6501595143207250300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bede725fb12f9a80800000000000000
+      internalID: -8458004469571985738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac28d6d06d15a3950800000000000000
+      internalID: 6429541397814936266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dbb8b826707c5d0800000000000000
+      internalID: -3042454903436100336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3933782e2265f90800000000000000
+      internalID: -6965341417355635717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fec0b452c0f1440800000000000000
+      internalID: 4908655473169592079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fc3d15241c01290800000000000000
+      internalID: -7921619253959864439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd423d2c30ce544c0800000000000000
+      internalID: -4303774367984966433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd171fce3349f37c0800000000000000
+      internalID: -4089386985889631779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e269e426fe1716b00800000000000000
+      internalID: 820061880118580782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d28230313f7ab5e0800000000000000
+      internalID: -1893060844117130541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcc5d9aa23fde020800000000000000
+      internalID: 2372819943257656499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd0fd445b0550630800000000000000
+      internalID: 3892606192406433275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fc079c52ffc20f0800000000000000
+      internalID: -1140256067873091747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d83f47459f3d61c0800000000000000
+      internalID: -4508877741548947242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02382c99cec4c0fc0800000000000000
+      internalID: -3527359829062286560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e473d5d1db4bc2110800000000000000
+      internalID: 1237562721954510670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3a4a665c7a5290800000000000000
+      internalID: -7900865885675832452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aced4e0a8eff400800000000000000
+      internalID: 360262272945146369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416526c4974f88ab0800000000000000
+      internalID: -5005482184012573164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69af56cc8f31bdcd0800000000000000
+      internalID: -2532408406163719530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879eb3d25fd0e77e0800000000000000
+      internalID: -1765958657205606024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171a361cb1a113400800000000000000
+      internalID: 302051356521505137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87569a2bfb2c24e50800000000000000
+      internalID: 6792205316620117368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00db250299148240800000000000000
+      internalID: 4792984018371727370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78497dc61a89bbb80800000000000000
+      internalID: -8377934862709451641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91614ac4dce310c60800000000000000
+      internalID: 7782570682547967513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cf52b0b785b93a0800000000000000
+      internalID: -6657630338645885871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05717e0e397295890800000000000000
+      internalID: -7468894990930340016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84fcbed07ed8b490800000000000000
+      internalID: -7730184184026827636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e623f61211ff93a0800000000000000
+      internalID: -6656336664233564439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec16f8e68cba94ce0800000000000000
+      internalID: -1420415330121981490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a590c7c8949dafc60800000000000000
+      internalID: 7852827810186660186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f523b8c449afa310800000000000000
+      internalID: 1418538520535049718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fb34b735d0211f0800000000000000
+      internalID: -1075782708786643082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e39000d8e830a0800000000000000
+      internalID: -6901510448884750332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb34199b439b7f30800000000000000
+      internalID: 4574411799424941050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ecb4caed220ae40800000000000000
+      internalID: 5665566671000817196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80a5f8ac205f41e0800000000000000
+      internalID: -2211460739272171381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c75ef90d390ea70800000000000000
+      internalID: 8854239391655492639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b12b2c26ae525710800000000000000
+      internalID: 1680509678761222581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03067c4d56f37b80800000000000000
+      internalID: -8398097999540649203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9e1224d765bf320800000000000000
+      internalID: 2592761106462271933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09134d2add86eeae0800000000000000
+      internalID: -1518160723248402032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac0b5fe426e77760800000000000000
+      internalID: 7455680754444078254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991f10ad65c643a20800000000000000
+      internalID: 3041174768662475161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9657c11606689e0800000000000000
+      internalID: -1619501045787563552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d937046a285cc7110800000000000000
+      internalID: 1260099160682558365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dispensers_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8ce4209127a93a0800000000000000
+      internalID: -6657883647375390560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

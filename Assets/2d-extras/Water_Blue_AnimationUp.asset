@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Water_Blue_AnimationUp
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 9169537570530941347, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: -3424041084543778630, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 4238895511385657081, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: -5542689450281381765, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: -2465066530560095428, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 5501322569382780129, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: -7576111957447248358, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: -6384753482102385750, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_TileColliderType: 1

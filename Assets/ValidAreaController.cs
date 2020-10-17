@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class ValidAreaController : MonoBehaviour
 {
-
     private List<GameObject> checkPointList;
 
     private List<GameObject> restrictedAreaList;
@@ -20,7 +19,7 @@ public class ValidAreaController : MonoBehaviour
         ToInitPosition(initialPosition);
     }
 
-    /*Finds the nearest spawnpoint due to players position*/
+    /*Finds the lateszt spawnpoint due to players position*/
     private GameObject LatestCheckPoint(List<GameObject> CheckPointList, GameObject Player)
     {
         GameObject lastCheckPoint = CheckPointList[0];
@@ -32,14 +31,11 @@ public class ValidAreaController : MonoBehaviour
                 lastCheckPoint = cp;
             }
         }
-
-        
-
         return lastCheckPoint;
     }
 
 
-    /* RelocateToSpawnpoint - Relocates player to the nearest spawnpoint */
+    /* RelocateToSpawnpoint - Relocates player to the latest spawnpoint */
     public void ToCheckPoint()
     {
         GameObject UsedCheckPoint = LatestCheckPoint(checkPointList, player);
@@ -47,8 +43,6 @@ public class ValidAreaController : MonoBehaviour
         Debug.Log("Teleport to" + UsedCheckPoint.transform.position);
 
         StartCoroutine(DoTeleport(player, UsedCheckPoint));
-
-
     }
 
     /* RelocateToInitPosition - Relocates player to the Initial position defined by the script setting */
@@ -68,6 +62,9 @@ public class ValidAreaController : MonoBehaviour
             {
                 RestrictedArea.GetComponent<RestrictedAreaBox>().AckRestrictedArea(this.gameObject);
             }
+
+            RAreas.GetRestrictedAreaTilemap().GetComponent<RestrictedAreaTilemap>().AckRestrictedArea(this.gameObject);
+
         }
         else
         {
@@ -81,7 +78,6 @@ public class ValidAreaController : MonoBehaviour
             checkPointList = CPs.GetObjectList();
         else
             Debug.Log("Checkpoints script did not found in iput value. Name:" + this.name);
-
     }
 
     /*Teleports Player GO with assigned OVRPlayerController to desired Position*/
@@ -91,7 +87,7 @@ public class ValidAreaController : MonoBehaviour
         player.GetComponent<Transform>().position = checkPoint.transform.position;
         
         yield return new WaitForEndOfFrame();
-       
+      
     }
 
 

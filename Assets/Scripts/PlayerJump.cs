@@ -3,33 +3,41 @@ using UnityEngine;
 
 class PlayerJump
 {
-    private RangeValue<float> JumpValue = new RangeValue<float>(0f, 20f, 0f);
-    private RangeValue<float> JumpResetTimer = new RangeValue<float>(0f, 0.2f, 0f);
+    private RangeValue<float> JumpValue = new RangeValue<float>(0f, 16f, 0f);
 
     private RangeValue<int> JumpCounterValue = new RangeValue<int>(0, 2, 0);
-    
+
     public float OutputJumpValue { get; private set; }
+    
+    public bool IsOnGround { get; private set; }
+    public bool JumpedInAir { get; private set; }
 
     private const float MOVE_JUMP = 1;
     private const string FLOOR = "Floor";
-   
+
     private bool jumpInitiation;
     private float LastStateOfJump;
 
+    
+
     private bool doubleJumpEnabled = true;
     private bool midJumpAvailable;
-   
+
 
     //Jumping procedure handling
     public void JumpHandling(float jumpInput, List<GameObject> collidingObjects)
     {
+        JumpedInAir = false;
+
         OutputJumpValue = JumpValue.Minimum;
 
-
+        IsOnGround = FloorFound(collidingObjects);
 
         //jump of the floor
-        if (FloorFound(collidingObjects))
+        if (IsOnGround)
         {
+            JumpedInAir = false;
+
             midJumpAvailable = true;
             JumpCounterValue.Current = JumpCounterValue.Minimum;
 
@@ -48,6 +56,8 @@ class PlayerJump
             {
                 if (JumpCounterValue.Current < JumpCounterValue.Maximum)
                 {
+                    JumpedInAir = true;
+
                     SetJumpValues();
                     JumpCounterValue.Current++;
                 }
@@ -63,9 +73,10 @@ class PlayerJump
         {
             if (jumpInputRiseEdge(jumpInput))
             {
+                JumpedInAir = true;
                 midJumpAvailable = false;
                 SetJumpValues();
-            } 
+            }
         }
 
         LastStateOfJump = jumpInput;
@@ -97,4 +108,6 @@ class PlayerJump
         }
         return floorFound;
     }
+    
+    
 }

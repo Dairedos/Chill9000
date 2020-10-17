@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Water_Purple_BubblesDown
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -384045346037234852, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: -9111505178442488551, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 8601661618700727014, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: -8250801387629385532, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 7855806929186337190, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 8597787239424157809, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: -5446934573371312616, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  - {fileID: 5352520267356098209, guid: b9907eb5466bdf04d999ce546c514e05, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0
